@@ -16,17 +16,24 @@
           <a class="navbar-brand" href="#">Gerhard Stalze - Teacher and Composer</a>
         </div>
         <ul class="nav navbar-nav">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#">Biography</a></li>
-          <li><a href="#">Works</a></li>
+          <li id="homeNav" class="active"><a href="#">Home</a></li>
+          <li id="bioNav"><a href="#">Biography</a></li>
+          <li id="worksNav"><a href="#">Works</a></li>
           <li><a href="mailto:gerhard.stalze@aon.at">Contact</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#" id="deButton"><img src="./images/DE.png" width="50" height="30" alt=""></a></li>
+          <li><a href="#" id="enButton"><img src="./images/GB.png" width="50" height="30" alt=""></a></li>
         </ul>
       </div>
     </nav>
 
 
-    <div class="content">
-      <div class="bio-de" style="display: none">
+    <div id="mainContent">
+      <div id="home" class="content" style="display: none">
+      </div>
+
+      <div id="bio-de" class="de content" style="display: none">
           <h2>Biographie</h2>
           <p>Ich wurde 1952 als ältester  von drei Söhnen einer Arbeiterfamilie, in Wien geboren.</p>
           <p>Nach Abschluss der Pflichtschule machte ich eine Berufsausbildung als Zuckerbäcker, die ich mit der Gesellenprüfung abschloss.</p>
@@ -35,7 +42,7 @@
           <p>Im Februar 2014 habe ich mein 100stes vollendetes Werk gefeiert.</p>
       </div>
 
-      <div class="bio-en" style="display: none">
+      <div id="bio-en" class="en content" style="display: none">
           <h2>Biography</h2>
           <p>I was born in 1952 as the eldest of three sons in a working class family in Vienna.</p>
           <p>After my graduation in high school I served my apprenticeship as a pastry cook.</p>
@@ -44,7 +51,7 @@
           <p>In Febuary 2014 I celebrated my 100th finished piece.</p>
       </div>
 
-      <div class="list-of-works" style="display: none">
+      <div id="works" class="content" style="display: none">
         <h2>Compositions</h2>
         <p class="rechts">samples<img src="20130309_233905.jpg" width="20" height="25" alt="Note" /></p>
         <table width="90%" border="1" cellspacing="0" id="Werkliste">
@@ -860,7 +867,6 @@
         </table>
 
       </div>
-
 
     </div>
 
