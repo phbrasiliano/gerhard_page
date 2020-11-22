@@ -4,12 +4,14 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Gerhard Stalze - Piano teacher and Composer</title>
-    <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./main.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+
+  <div class="all-wrap">
     <nav class="navbar navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -28,9 +30,15 @@
       </div>
     </nav>
 
+    <div id="mainContent" class="content-wrap container">
+      <div id="home" class="content de" style="">
+        <h1>Gerhard Stalze</h1>
+        <h2>Komponist</h2>
+      </div>
 
-    <div id="mainContent">
-      <div id="home" class="content" style="display: none">
+      <div id="home-en" class="content en" style="display: none">
+        <h1>Gerhard Stalze</h1>
+        <h2>Compositor</h2>
       </div>
 
       <div id="bio-de" class="de content" style="display: none">
@@ -341,7 +349,7 @@
             <td>Septett (4 movements)</td>
             <td>flute + oboe + horn + viola + cello + double bass + piano</td>
             <td>20:35</td>
-            <td><span class="rechts"><a href="Septett.mp3"><img src="20130309_233905.jpg" width="20" height="25" alt="Note" /></a></span></td>
+            <td><span class="rechts"><a href="Septett.mp3"><img src="music-note.svg" width="20" height="25" alt="Note" /></a></span></td>
             <td>35</td>
           </tr>
           <tr>
@@ -870,6 +878,16 @@
 
     </div>
 
+    <footer class="footer">
+      <div class="container">
+        <span class="text-muted center">Made by Phellipe Brasiliano -
+          <a href="mailto:phbrasiliano@gmail.com?Subject=About%20Rankerfy" target="_blank">Email <i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+          <a href="https://github.com/phbrasiliano" target="_blank">Github <i class="fa fa-github" aria-hidden="true"></i></a>
+          <a href="https://twitter.com/Phellpsbr" target="_blank">Twitter <i class="fa fa-twitter" aria-hidden="true"></i></a>
+        </span>
+      </div>
+    </footer>
+  </div>
 
 </body>
 <script src="./js/jquery-3.5.1.min.js"></script>
