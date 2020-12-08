@@ -4,42 +4,34 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Gerhard Stalze - Piano teacher and Composer</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="./main.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
 </head>
 <body>
-
-  <div class="all-wrap">
-    <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#">Gerhard Stalze - Teacher and Composer</a>
-        </div>
-        <ul class="nav navbar-nav">
-          <li id="homeNav" class="active"><a href="#">Home</a></li>
-          <li id="bioNav"><a href="#">Biography</a></li>
-          <li id="worksNav"><a href="#">Works</a></li>
-          <li><a href="mailto:gerhard.stalze@aon.at">Contact</a></li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="#" id="deButton"><img src="./images/DE.png" width="50" height="30" alt=""></a></li>
-          <li><a href="#" id="enButton"><img src="./images/GB.png" width="50" height="30" alt=""></a></li>
-        </ul>
+  <div class="test cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <header class="masthead mb-auto">
+      <div class="inner">
+        <nav class="nav nav-masthead justify-content-center">
+          <a id="homeNav" class="nav-link active" href="#">Home</a>
+          <a id="bioNav" class="nav-link" href="#">Biography</a>
+          <a id="worksNav" class="nav-link" href="#">Works</a>
+          <a id="mailNav" class="nav-link" href="mailto:gerhard.stalze@aon.at">Contact</a>
+        </nav>
       </div>
-    </nav>
+    </header>
 
-    <div id="mainContent" class="content-wrap container">
+    <div id="mainContent" class="inner cover">
       <div id="home" class="content home de" style="">
-        <h1>Gerhard Stalze</h1>
+        <h1 class="cover-heading">Gerhard Stalze</h1>
         <h2>Komponist</h2>
       </div>
 
       <div id="home-en" class="content home en" style="display: none">
-        <h1>Gerhard Stalze</h1>
+        <h1 class="cover-heading">Gerhard Stalze</h1>
         <h2>Compositor</h2>
       </div>
 
@@ -75,8 +67,13 @@
 
     </div>
 
+    <footer class="mastfoot mt-auto">
+      <ul class="navbar nav">
+        <li><a href="#" class="navitem" id="deButton"><img src="./images/DE.png" width="50" height="30" alt=""></a></li>
+        <li><a href="#" class="navitem" id="enButton"><img src="./images/GB.png" width="50" height="30" alt=""></a></li>
+      </ul>
+    </footer>
   </div>
-
 </body>
 <script src="./js/jquery-3.5.1.min.js"></script>
 <script src="./js/main.js"></script>

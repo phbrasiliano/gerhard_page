@@ -5,7 +5,7 @@ $(document).ready(function(){
 
     $("#homeNav").click(function(){
       content = "home";
-      $(".navbar-nav li").removeClass("active");
+      $(".nav-masthead a").removeClass("active");
       $(this).addClass("active")
       $(".content").fadeOut().promise().done(function(){
         $("." + content + "." + language).fadeIn();
@@ -14,7 +14,7 @@ $(document).ready(function(){
 
     $("#bioNav").click(function(){
       content = "bio";
-      $(".navbar-nav li").removeClass("active");
+      $(".nav-masthead a").removeClass("active");
       $(this).addClass("active")
       $(".content").fadeOut().promise().done(function(){
         $("." + content + "." + language).fadeIn();
@@ -24,7 +24,7 @@ $(document).ready(function(){
 
     $("#worksNav").click(function(){
       content = "works";
-      $(".navbar-nav li").removeClass("active");
+      $(".nav-masthead  a").removeClass("active");
       $(this).addClass("active")
       $(".content").fadeOut().promise().done(function(){
         $("." + content + "." + language).fadeIn();
