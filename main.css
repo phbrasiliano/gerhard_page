@@ -1,8 +1,3 @@
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 h1, h2 {
   text-align: center;
   font-family: 'PT Sans', sans-serif;
@@ -107,15 +102,6 @@ body {
 .nav-masthead .active {
   color: #fff;
   border-bottom-color: #fff;
-}
-
-@media (min-width: 48em) {
-  .masthead-brand {
-    float: left;
-  }
-  .nav-masthead {
-    float: right;
-  }
 }
 
 
