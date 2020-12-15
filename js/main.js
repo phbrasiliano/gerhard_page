@@ -55,3 +55,9 @@ $(document).ready(function(){
 
 
 });
+
+// Generates the table with all of Gerhards compositions,
+// out of a json file.
+function tableGenerator(){
+
+}
