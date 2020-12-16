@@ -35,7 +35,19 @@ function tableGenerator(json){
     }
 }
 
-
+function navLangSwitch(lang){
+  if (lang == "en") {
+    $("#homeNav").text("Home");
+    $("#bioNav").text("Biography");
+    $("#worksNav").text("Works");
+    $("#mailNav").text("Contact");
+  } else {
+    $("#homeNav").text("Home");
+    $("#bioNav").text("Biographie");
+    $("#worksNav").text("Arbaiten");
+    $("#mailNav").text("Contakt");
+  }
+}
 
 $(document).ready(function(){
     var language = "de";
