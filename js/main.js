@@ -23,9 +23,9 @@ function tableGenerator(json){
 
       var sample = $("<td>").addClass("sample")
       if (json[i]['sample'] == 'yes'){
-        sample.text("yes")
+        sample.html('<a href="' + '#' + '"> <img src="./images/play_circle.svg" class="play-button" width="50" height="30" alt=""></a>')
       };
-
+      console.log(sample)
       row.append(sample)
 
       var row2 = row.clone();
@@ -44,7 +44,7 @@ function navLangSwitch(lang){
   } else {
     $("#homeNav").text("Home");
     $("#bioNav").text("Biographie");
-    $("#worksNav").text("Arbaiten");
+    $("#worksNav").text("Arbeiten");
     $("#mailNav").text("Contakt");
   }
 }

@@ -23,9 +23,16 @@ h2 {
   color: rgba(255, 255, 255);
 }
 
-.flag:hover {
-
+.flag {
+  margin-right: 8px;
+  margin-left: 8px;
 }
+
+.flag:hover {
+  border-radius: 50%;
+  box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.77);
+  }
+
 
 .bio {
   text-align: justify;
