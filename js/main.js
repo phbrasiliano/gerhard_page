@@ -38,14 +38,14 @@ function tableGenerator(json){
 function navLangSwitch(lang){
   if (lang == "en") {
     $("#homeNav").text("Home");
-    $("#bioNav").text("Biography");
+    $("#bioNav").text("About");
     $("#worksNav").text("Works");
     $("#mailNav").text("Contact");
   } else {
     $("#homeNav").text("Home");
-    $("#bioNav").text("Biographie");
+    $("#bioNav").text("Über mich");
     $("#worksNav").text("Arbeiten");
-    $("#mailNav").text("Contakt");
+    $("#mailNav").text("Kontakt");
   }
 }
 
@@ -53,7 +53,8 @@ $(document).ready(function(){
     var language = "de";
     var content = "home"
 
-
+    navLangSwitch();
+    
     $("#homeNav").click(function(){
       content = "home";
       $(".nav-masthead a").removeClass("active");
