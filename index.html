@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="./main.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
 </head>
 <body>
   <div class="test cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
@@ -17,22 +17,22 @@
       <div class="inner">
         <nav class="nav nav-masthead justify-content-center">
           <a id="homeNav" class="nav-link active" href="#">Home</a>
-          <a id="bioNav" class="nav-link" href="#">Biography</a>
-          <a id="worksNav" class="nav-link" href="#">Works</a>
-          <a id="mailNav" class="nav-link" href="mailto:gerhard.stalze@aon.at">Contact</a>
+          <a id="bioNav" class="nav-link" href="#">Biographie</a>
+          <a id="worksNav" class="nav-link" href="#">Arbeiten</a>
+          <a id="mailNav" class="nav-link" href="mailto:gerhard.stalze@aon.at">Contakt</a>
         </nav>
       </div>
     </header>
 
     <div id="mainContent" class="inner cover">
       <div id="home" class="content home de" style="">
-        <h1 class="cover-heading">Gerhard Stalze</h1>
-        <h2>Komponist</h2>
+        <h1 class="cover-heading">GERHARD STALZE</h1>
+        <h2 class="cover-subtitle">Komponist</h2>
       </div>
 
       <div id="home-en" class="content home en" style="display: none">
-        <h1 class="cover-heading">Gerhard Stalze</h1>
-        <h2>Compositor</h2>
+        <h1 class="cover-heading">GERHARD STALZE</h1>
+        <h2 class="cover-subtitle">Compositor</h2>
       </div>
 
       <div id="bio-de" class="de bio content" style="display: none">
@@ -54,108 +54,56 @@
       </div>
 
       <div id="works" class="content works en" style="display: none">
-        <h3>Compositions</h3>
-        <p class="rechts">samples<img src="images/music-note.svg" width="20" height="25" alt="Note" /></p>
-        <table class="table">
+        <h2>Compositions</h2>
+        <table class="table table-responsive" id="worksTableEn">
           <thead>
             <tr>
-              <th scope="col">#</th>
-              <th scope="col">First</th>
-              <th scope="col">Last</th>
-              <th scope="col">Handle</th>
+              <th>#</th>
+              <th>Song name and instruments</th>
+              <th>Duration</th>
+              <th>Date</th>
+              <th>Sample</th>
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <th scope="row">1</th>
-              <td>Mark</td>
-              <td>Otto</td>
-              <td>@mdo</td>
-            </tr>
-            <tr>
-              <th scope="row">2</th>
-              <td>Jacob</td>
-              <td>Thornton</td>
-              <td>@fat</td>
-            </tr>
-            <tr>
-              <th scope="row">3</th>
-              <td>Larry</td>
-              <td>the Bird</td>
-              <td>@twitter</td>
-            </tr>
+
           </tbody>
         </table>
 
       </div>
 
       <div id="works" class="content works de" style="display: none">
-        <h3>Kompositions</h3>
-        <p class="rechts">samples<img src="images/music-note.svg" width="20" height="25" alt="Note" /></p>
-        <table class="table">
+        <h2>Kompositions</h2>
+
+        <table class="table table-responsive" id="worksTableDe">
           <thead>
             <tr>
-              <th scope="col">#</th>
-              <th scope="col">Song name and instruments</th>
-              <th scope="col">Sample</th>
-              <th scope="col">Date</th>
-              <th scope="col">Duration</th>
+              <th>#</th>
+              <th>Lied Name und Instrumenten</th>
+              <th>Duration</th>
+              <th>Datum</th>
+              <th>Sample</th>
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <th scope="row">1</th>
-              <td><p>"Polimorphismen" (12 pieces)</p>
-              <p>Piano, Rumba, potato</p></td>
-              <td></td>
-              <td>1980</td>
-              <td>21:20</td>
-            </tr>
-            <tr>
-              <th scope="row">2</th>
-              <td><p>"Sonatine in d (3 movements)"</p>
-              <p>Piano, Rumba, potato, choir, e-guitar, beniskkkkk</p></td>
-              <td></td>
-              <td>1980</td>
-              <td>21:20</td>
-            </tr><tr>
-              <th scope="row">3</th>
-              <td><p>"Polimorphismen" (12 pieces)</p>
-              <p>Piano, Rumba, potato</p></td>
-              <td></td>
-              <td>1980</td>
-              <td>21:20</td>
-            </tr>
-          </tr><tr>
-            <th scope="row">3</th>
-            <td><p>"Polimorphismen" (12 pieces)</p>
-            <p>Piano, Rumba, potato</p></td>
-            <td></td>
-            <td>1980</td>
-            <td>21:20</td>
-          </tr>
-        </tr><tr>
-          <th scope="row">3</th>
-          <td><p>"Polimorphismen" (12 pieces)</p>
-          <p>Piano, Rumba, potato</p></td>
-          <td></td>
-          <td>1980</td>
-          <td>21:20</td>
-        </tr>
+
           </tbody>
         </table>
       </div>
 
     </div>
 
-    <footer class="mastfoot mt-auto">
-      <nav class="navbar nav justify-content-start">
-        <a href="#" class="navitem flag" id="deButton"><img src="./images/DE.svg" width="50" height="30" alt=""></a>
-        <a href="#" class="navitem flag" id="enButton"><img src="./images/GB.svg" width="50" height="30" alt=""></a>
-      </nav>
+    <footer class="footer row">
+
+      <div class="navbar nav justify-content-center col">
+        <a href="#" class="navitem flag" id="deButton"><img src="./images/DE.svg" width="63" height="38" alt=""></a>
+        <a href="#" class="navitem flag" id="enButton"><img src="./images/GB.svg" width="63" height="38" alt=""></a>
+      </div>
+      <div class="col"></div>
     </footer>
   </div>
 </body>
 <script src="./js/jquery-3.5.1.min.js"></script>
+<script src="./js/worksJson.js"></script>
 <script src="./js/main.js"></script>
 </html>
