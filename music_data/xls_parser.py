@@ -34,4 +34,7 @@ for item in range(sheet.nrows):
 
 formatted_works = json.dumps(works_json, ensure_ascii=False, indent=4).encode('utf8')
 
+with open('../js/worksJson.js', "w") as outfile:
+    json.dump(works_json, outfile,ensure_ascii=False, indent=4 )
+
 print(formatted_works.decode())
