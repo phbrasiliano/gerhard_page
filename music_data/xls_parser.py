@@ -1,5 +1,6 @@
 import xlrd
 import json
+import re
 
 sheet = xlrd.open_workbook('werke.xls').sheet_by_index(0)
 works_json = {"0" : {
@@ -12,6 +13,13 @@ works_json = {"0" : {
 
 index = 0
 
+delimiters = "und", "+", ","
+
+regex_pattern = '|'.join(map(re.escape, delimiters))
+
+instrument_set = set([])
+instrument_list = []
+
 for item in range(sheet.nrows):
     active_row = sheet.row(item)
 
@@ -22,10 +30,16 @@ for item in range(sheet.nrows):
         song_info['name'] = active_row[3].value
         song_info['type'] = active_row[4].value
         song_info['date'] = active_row[5].value
-        song_info['instruments'] = active_row[6].value
+        song_info['instruments_text'] = active_row[6].value
+        song_info['instruments'] = re.split(regex_pattern, active_row[6].value)
+        song_info['instruments'] = [i.strip() for i in song_info['instruments']]
         song_info['duration'] = active_row[7].value
         song_info['sample'] = 'no'
         works_json[index] = song_info
+
+        for i in song_info['instruments']:
+            instrument_set.add(i)
+            instrument_list.append(i)
 
         #print(active_row[3].value)
     else:
@@ -35,6 +49,12 @@ for item in range(sheet.nrows):
 formatted_works = json.dumps(works_json, ensure_ascii=False, indent=4).encode('utf8')
 
 with open('../js/worksJson.js', "w") as outfile:
+    outfile.write("songJson = ")
     json.dump(works_json, outfile,ensure_ascii=False, indent=4 )
 
-print(formatted_works.decode())
+#print(formatted_works.decode())
+for i in instrument_set:
+    print(i)
+
+print(len(instrument_set))
+print(len(instrument_list))

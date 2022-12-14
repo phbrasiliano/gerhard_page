@@ -15,7 +15,10 @@ songJson = {
         "name": "\"Polymorphismen\"",
         "type": "21 Stücke",
         "date": 1980.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 21 min. 20 sec.",
         "sample": "no"
     },
@@ -23,7 +26,10 @@ songJson = {
         "name": "1. Sonatine",
         "type": "3 Sätze",
         "date": 1980.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 5 min. 50 sec.",
         "sample": "no"
     },
@@ -31,7 +37,10 @@ songJson = {
         "name": "3 Frühe Klavierstücke",
         "type": "3 Stücke",
         "date": 1980.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 6 min. 30 sec.",
         "sample": "no"
     },
@@ -39,7 +48,11 @@ songJson = {
         "name": "Streichtriosatz",
         "type": "1 Satz",
         "date": 1980.0,
-        "instruments": "2 Violinen und Bratsche",
+        "instruments_text": "2 Violinen und Bratsche",
+        "instruments": [
+            "2 Violinen",
+            "Bratsche"
+        ],
         "duration": "ca. 6 min. 35 sec.",
         "sample": "no"
     },
@@ -47,7 +60,10 @@ songJson = {
         "name": "Klavierstück I",
         "type": "1 Satz",
         "date": 1988.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 6 min.",
         "sample": "no"
     },
@@ -55,7 +71,10 @@ songJson = {
         "name": "Klavierstück II",
         "type": "1 Satz",
         "date": 1992.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 7 min. 30 sec.",
         "sample": "no"
     },
@@ -63,7 +82,13 @@ songJson = {
         "name": "Rondo für Blechbläserquintett",
         "type": "1 Satz",
         "date": 1992.0,
-        "instruments": "2 Trom.+ Horn+ Pos.+ Tuba",
+        "instruments_text": "2 Trom.+ Horn+ Pos.+ Tuba",
+        "instruments": [
+            "2 Trom.",
+            "Horn",
+            "Pos.",
+            "Tuba"
+        ],
         "duration": "ca. 7 min. 30 sec.",
         "sample": "no"
     },
@@ -71,7 +96,12 @@ songJson = {
         "name": "Scherzo für Blechbläsertrio",
         "type": "1 Satz",
         "date": 1992.0,
-        "instruments": "Trom.+ Horn+ Pos.",
+        "instruments_text": "Trom.+ Horn+ Pos.",
+        "instruments": [
+            "Trom.",
+            "Horn",
+            "Pos."
+        ],
         "duration": "ca. 3 min.",
         "sample": "no"
     },
@@ -79,7 +109,11 @@ songJson = {
         "name": "Andante",
         "type": "1 Satz",
         "date": 1993.0,
-        "instruments": "Alt-Sax.+ Klavier",
+        "instruments_text": "Alt-Sax.+ Klavier",
+        "instruments": [
+            "Alt-Sax.",
+            "Klavier"
+        ],
         "duration": "ca. 6 min.",
         "sample": "no"
     },
@@ -87,7 +121,11 @@ songJson = {
         "name": "Fantasie",
         "type": "1 Satz",
         "date": 1995.0,
-        "instruments": "Alt-Sax.+ Klavier",
+        "instruments_text": "Alt-Sax.+ Klavier",
+        "instruments": [
+            "Alt-Sax.",
+            "Klavier"
+        ],
         "duration": "ca. 10 min.",
         "sample": "no"
     },
@@ -95,7 +133,10 @@ songJson = {
         "name": "Klavierstück III",
         "type": "1 Satz",
         "date": 1995.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 10 min.",
         "sample": "no"
     },
@@ -103,7 +144,13 @@ songJson = {
         "name": "Saxophonquartett",
         "type": "4 Sätze",
         "date": 1995.0,
-        "instruments": "Sopran-+ Alt-+ Tenor-+ Baritonsaxophon",
+        "instruments_text": "Sopran-+ Alt-+ Tenor-+ Baritonsaxophon",
+        "instruments": [
+            "Sopran-",
+            "Alt-",
+            "Tenor-",
+            "Baritonsaxophon"
+        ],
         "duration": "ca. 31 min.",
         "sample": "no"
     },
@@ -111,7 +158,14 @@ songJson = {
         "name": "Sextett",
         "type": "3 Sätze",
         "date": 1995.0,
-        "instruments": "2 Git.+ Flö.+ Klar.+ Vio.+ Cello",
+        "instruments_text": "2 Git.+ Flö.+ Klar.+ Vio.+ Cello",
+        "instruments": [
+            "2 Git.",
+            "Flö.",
+            "Klar.",
+            "Vio.",
+            "Cello"
+        ],
         "duration": "ca. 26 min.",
         "sample": "no"
     },
@@ -119,7 +173,14 @@ songJson = {
         "name": "Divertimento für Zupforchester",
         "type": "5 Sätze",
         "date": 1996.0,
-        "instruments": "1.+ 2.Mandolinen + Mandolen+ Git.+ K.B.",
+        "instruments_text": "1.+ 2.Mandolinen + Mandolen+ Git.+ K.B.",
+        "instruments": [
+            "1.",
+            "2.Mandolinen",
+            "Mandolen",
+            "Git.",
+            "K.B."
+        ],
         "duration": "ca. 21 min.",
         "sample": "no"
     },
@@ -127,7 +188,11 @@ songJson = {
         "name": "Sonatine",
         "type": "3 Sätze",
         "date": 1996.0,
-        "instruments": "Posaune + Klavier",
+        "instruments_text": "Posaune + Klavier",
+        "instruments": [
+            "Posaune",
+            "Klavier"
+        ],
         "duration": "ca. 13 min.",
         "sample": "no"
     },
@@ -135,7 +200,10 @@ songJson = {
         "name": "3 Stücke für 4 Trompeten",
         "type": "3 Stücke",
         "date": 1997.0,
-        "instruments": "4 Trompeten",
+        "instruments_text": "4 Trompeten",
+        "instruments": [
+            "4 Trompeten"
+        ],
         "duration": "ca. 8 min. 40 sec.",
         "sample": "no"
     },
@@ -143,7 +211,10 @@ songJson = {
         "name": "5 Kleine Klavierstücke für Ursula",
         "type": "5 Stücke",
         "date": 1997.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 11 min. 15 sec.",
         "sample": "no"
     },
@@ -151,7 +222,11 @@ songJson = {
         "name": "12 Liebeslieder",
         "type": "12 Lieder",
         "date": 1997.0,
-        "instruments": "Gesang + Klavier",
+        "instruments_text": "Gesang + Klavier",
+        "instruments": [
+            "Gesang",
+            "Klavier"
+        ],
         "duration": "ca. 7 min. 20 sec.",
         "sample": "no"
     },
@@ -159,7 +234,10 @@ songJson = {
         "name": "\"Für Dich und mich\"",
         "type": "7 Stücke",
         "date": 1998.0,
-        "instruments": "Klavier vierhändig",
+        "instruments_text": "Klavier vierhändig",
+        "instruments": [
+            "Klavier vierhändig"
+        ],
         "duration": "ca. 9 min. 38 sec.",
         "sample": "no"
     },
@@ -167,7 +245,10 @@ songJson = {
         "name": "\"Mini Klavier\" für junge Pianisten",
         "type": "24 Stücke",
         "date": 1998.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 22 min. 30 sec.",
         "sample": "no"
     },
@@ -175,7 +256,10 @@ songJson = {
         "name": "2. Sonatine",
         "type": "3 Sätze",
         "date": 1998.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 6 min. 25 sec.",
         "sample": "no"
     },
@@ -183,7 +267,10 @@ songJson = {
         "name": "4 Stücke für junge Streicher",
         "type": "4 Stücke",
         "date": 1998.0,
-        "instruments": "Streichorchester ohne K.B.",
+        "instruments_text": "Streichorchester ohne K.B.",
+        "instruments": [
+            "Streichorchester ohne K.B."
+        ],
         "duration": "ca. 7 min. 35 sec.",
         "sample": "no"
     },
@@ -191,7 +278,11 @@ songJson = {
         "name": "Brüsseler-Fantasie",
         "type": "1 Satz",
         "date": 1998.0,
-        "instruments": "Klavier solo + Orchester",
+        "instruments_text": "Klavier solo + Orchester",
+        "instruments": [
+            "Klavier solo",
+            "Orchester"
+        ],
         "duration": "ca. 10 min.",
         "sample": "no"
     },
@@ -199,7 +290,16 @@ songJson = {
         "name": "Saxophonkonzert",
         "type": "3 Sätze",
         "date": 1998.0,
-        "instruments": "Altsax.solo + Orch.3+2+2+3/1+2/Schl.+ Str.",
+        "instruments_text": "Altsax.solo + Orch.3+2+2+3/1+2/Schl.+ Str.",
+        "instruments": [
+            "Altsax.solo",
+            "Orch.3",
+            "2",
+            "2",
+            "3/1",
+            "2/Schl.",
+            "Str."
+        ],
         "duration": "ca. 23 min",
         "sample": "no"
     },
@@ -207,7 +307,13 @@ songJson = {
         "name": "1. Klavierquintett",
         "type": "2 Sätze",
         "date": 1999.0,
-        "instruments": "2 Violinen + Viola + Cello + Klavier.",
+        "instruments_text": "2 Violinen + Viola + Cello + Klavier.",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Klavier."
+        ],
         "duration": "ca. 16 min. 50 sec.",
         "sample": "no"
     },
@@ -215,7 +321,19 @@ songJson = {
         "name": "10 x 2  für 20 Bläser",
         "type": "5 Sätze",
         "date": 1999.0,
-        "instruments": "2 Fl.+ 2 Ob.+ 2 Klar.+ 2 Sax.+ 2 Fag.+2 Trom.+ 2 Flü.+ 2 Hrn.+ 2 Pos.+ 2 B.Tub.",
+        "instruments_text": "2 Fl.+ 2 Ob.+ 2 Klar.+ 2 Sax.+ 2 Fag.+2 Trom.+ 2 Flü.+ 2 Hrn.+ 2 Pos.+ 2 B.Tub.",
+        "instruments": [
+            "2 Fl.",
+            "2 Ob.",
+            "2 Klar.",
+            "2 Sax.",
+            "2 Fag.",
+            "2 Trom.",
+            "2 Flü.",
+            "2 Hrn.",
+            "2 Pos.",
+            "2 B.Tub."
+        ],
         "duration": "ca. 22 min. 30 sec.",
         "sample": "no"
     },
@@ -223,7 +341,11 @@ songJson = {
         "name": "2 Ringelnatz-Lieder",
         "type": "2 Lieder",
         "date": 1999.0,
-        "instruments": "Gesang + Klavier",
+        "instruments_text": "Gesang + Klavier",
+        "instruments": [
+            "Gesang",
+            "Klavier"
+        ],
         "duration": "ca. 2 min.",
         "sample": "no"
     },
@@ -231,7 +353,19 @@ songJson = {
         "name": "2+10 Konzert f. 2 Git. u. Kammerensemble",
         "type": "3 Sätze",
         "date": 1999.0,
-        "instruments": "2 Gitarren solo + Fl.+ Ob.+ Klar.+ Hrn.+ Fag.+ 2 Vio.+ Vla.+ Ce.+ K.B.",
+        "instruments_text": "2 Gitarren solo + Fl.+ Ob.+ Klar.+ Hrn.+ Fag.+ 2 Vio.+ Vla.+ Ce.+ K.B.",
+        "instruments": [
+            "2 Gitarren solo",
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Hrn.",
+            "Fag.",
+            "2 Vio.",
+            "Vla.",
+            "Ce.",
+            "K.B."
+        ],
         "duration": "ca. 19 min. 30 sec.",
         "sample": "no"
     },
@@ -239,7 +373,10 @@ songJson = {
         "name": "3 Stücke für Orgel",
         "type": "3 Stücke",
         "date": 1999.0,
-        "instruments": "Orgel",
+        "instruments_text": "Orgel",
+        "instruments": [
+            "Orgel"
+        ],
         "duration": "ca. 12 min. 35 sec.",
         "sample": "no"
     },
@@ -247,7 +384,11 @@ songJson = {
         "name": "3 Thomas Hanisch - Lieder",
         "type": "3 Lieder",
         "date": 1999.0,
-        "instruments": "Gesang + Klavier",
+        "instruments_text": "Gesang + Klavier",
+        "instruments": [
+            "Gesang",
+            "Klavier"
+        ],
         "duration": "ca. 4 min. 15 sec.",
         "sample": "no"
     },
@@ -255,7 +396,11 @@ songJson = {
         "name": "Muttertagslied",
         "type": "1 Lied",
         "date": 1999.0,
-        "instruments": "Gesang + Klavier",
+        "instruments_text": "Gesang + Klavier",
+        "instruments": [
+            "Gesang",
+            "Klavier"
+        ],
         "duration": "ca. 1 min. 35 sec.",
         "sample": "no"
     },
@@ -263,7 +408,10 @@ songJson = {
         "name": "Orgelfantasie I",
         "type": "1 Satz",
         "date": 1999.0,
-        "instruments": "Orgel",
+        "instruments_text": "Orgel",
+        "instruments": [
+            "Orgel"
+        ],
         "duration": "ca. 9 min. 45 sec.",
         "sample": "no"
     },
@@ -271,7 +419,22 @@ songJson = {
         "name": "\"Die Schlüsselblume\" Oper für Kinder v. S. Helting",
         "type": "10 Bilder",
         "date": 2000.0,
-        "instruments": "Sänger(innen), Chor, Kinderchor, 1 Sprecher und Orch. 2,2,2,2;2,2,2,1,Schl.+ Str.",
+        "instruments_text": "Sänger(innen), Chor, Kinderchor, 1 Sprecher und Orch. 2,2,2,2;2,2,2,1,Schl.+ Str.",
+        "instruments": [
+            "Sänger(innen)",
+            "Chor",
+            "Kinderchor",
+            "1 Sprecher",
+            "Orch. 2",
+            "2",
+            "2",
+            "2;2",
+            "2",
+            "2",
+            "1",
+            "Schl.",
+            "Str."
+        ],
         "duration": "ca. 120 min.",
         "sample": "no"
     },
@@ -279,7 +442,16 @@ songJson = {
         "name": "1. Klavierseptett",
         "type": "4 Sätze",
         "date": 2000.0,
-        "instruments": "Fl.+ Ob.+ Hrn.+ Viola + Cello + K.B.+ Klavier",
+        "instruments_text": "Fl.+ Ob.+ Hrn.+ Viola + Cello + K.B.+ Klavier",
+        "instruments": [
+            "Fl.",
+            "Ob.",
+            "Hrn.",
+            "Viola",
+            "Cello",
+            "K.B.",
+            "Klavier"
+        ],
         "duration": "ca. 20 min. 35 sec.",
         "sample": "no"
     },
@@ -287,7 +459,10 @@ songJson = {
         "name": "2 Elementarphantasien",
         "type": "2 Stücke",
         "date": 2001.0,
-        "instruments": "Männerchor  T/T/B/B",
+        "instruments_text": "Männerchor  T/T/B/B",
+        "instruments": [
+            "Männerchor  T/T/B/B"
+        ],
         "duration": "ca. 5 min. 47 sec.",
         "sample": "no"
     },
@@ -295,7 +470,11 @@ songJson = {
         "name": "5 Joachim Ringelnatz - Lieder",
         "type": "5 Lieder",
         "date": 2001.0,
-        "instruments": "Kinderchor + Klavier",
+        "instruments_text": "Kinderchor + Klavier",
+        "instruments": [
+            "Kinderchor",
+            "Klavier"
+        ],
         "duration": "ca. 4 min. 25 sec.",
         "sample": "no"
     },
@@ -303,7 +482,10 @@ songJson = {
         "name": "ABA",
         "type": "7 Stücke",
         "date": 2001.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 13 min. 47 sec.",
         "sample": "no"
     },
@@ -311,7 +493,21 @@ songJson = {
         "name": "Blasodie",
         "type": "1 Satz",
         "date": 2001.0,
-        "instruments": "2 Fl.+2 Klar.+ B.Klar.+ Fag.+ 4 Sax.+ 4Trom.+ 3 Hrn.+ 2 Pos.+ Bar.+ B.Tuba + Schlz.+ Pk.",
+        "instruments_text": "2 Fl.+2 Klar.+ B.Klar.+ Fag.+ 4 Sax.+ 4Trom.+ 3 Hrn.+ 2 Pos.+ Bar.+ B.Tuba + Schlz.+ Pk.",
+        "instruments": [
+            "2 Fl.",
+            "2 Klar.",
+            "B.Klar.",
+            "Fag.",
+            "4 Sax.",
+            "4Trom.",
+            "3 Hrn.",
+            "2 Pos.",
+            "Bar.",
+            "B.Tuba",
+            "Schlz.",
+            "Pk."
+        ],
         "duration": "ca. 6 min. 15 sec.",
         "sample": "no"
     },
@@ -319,7 +515,10 @@ songJson = {
         "name": "Gitarreduette",
         "type": "5 Stücke",
         "date": 2001.0,
-        "instruments": "2 Gitarren ",
+        "instruments_text": "2 Gitarren ",
+        "instruments": [
+            "2 Gitarren"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -327,7 +526,10 @@ songJson = {
         "name": "\"Flaffy\" 30 Musikalische Zeichnungen",
         "type": "30 Stücke",
         "date": 2002.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 12 min.",
         "sample": "no"
     },
@@ -335,7 +537,12 @@ songJson = {
         "name": "1. Streichquartett",
         "type": "3 Sätze",
         "date": 2002.0,
-        "instruments": "2 Violinen, Viola und Violoncello",
+        "instruments_text": "2 Violinen, Viola und Violoncello",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Violoncello"
+        ],
         "duration": "ca. 17 min.",
         "sample": "no"
     },
@@ -343,7 +550,11 @@ songJson = {
         "name": "2 Stücke für Männerchor",
         "type": "2 Stücke",
         "date": 2002.0,
-        "instruments": "2x Tenor, 2x Bass",
+        "instruments_text": "2x Tenor, 2x Bass",
+        "instruments": [
+            "2x Tenor",
+            "2x Bass"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -351,7 +562,10 @@ songJson = {
         "name": "Für Barbara ",
         "type": "30 Stücke",
         "date": 2002.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 19 min. 19 sec.",
         "sample": "no"
     },
@@ -359,7 +573,11 @@ songJson = {
         "name": "Für Mandoline und Gitarre",
         "type": "2 Stücke",
         "date": 2002.0,
-        "instruments": "Mandoline und Gitarre",
+        "instruments_text": "Mandoline und Gitarre",
+        "instruments": [
+            "Mandoline",
+            "Gitarre"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -367,7 +585,10 @@ songJson = {
         "name": "Nach der Arbeit",
         "type": "5 Stücke",
         "date": 2002.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 9 min. 15 sec.",
         "sample": "no"
     },
@@ -375,7 +596,13 @@ songJson = {
         "name": "1. Klavierquintett",
         "type": "2 Sätze",
         "date": 2003.0,
-        "instruments": "2 Violinen, Viola, Cello und Klavier",
+        "instruments_text": "2 Violinen, Viola, Cello und Klavier",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -383,7 +610,12 @@ songJson = {
         "name": "1. Klaviertrio",
         "type": "3 Sätze",
         "date": 2003.0,
-        "instruments": "Violine, Violoncello und Klavier",
+        "instruments_text": "Violine, Violoncello und Klavier",
+        "instruments": [
+            "Violine",
+            "Violoncello",
+            "Klavier"
+        ],
         "duration": "ca. 18 min.",
         "sample": "no"
     },
@@ -391,7 +623,11 @@ songJson = {
         "name": "1. Sonate ",
         "type": "3 Sätze",
         "date": 2003.0,
-        "instruments": "Violine und Klavier",
+        "instruments_text": "Violine und Klavier",
+        "instruments": [
+            "Violine",
+            "Klavier"
+        ],
         "duration": "ca. 16 min. 40 sec.",
         "sample": "no"
     },
@@ -399,7 +635,10 @@ songJson = {
         "name": "3. Sonatine",
         "type": "3 Sätze",
         "date": 2003.0,
-        "instruments": "Klavier solo ",
+        "instruments_text": "Klavier solo ",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 9 min. 05 sec.",
         "sample": "no"
     },
@@ -407,7 +646,11 @@ songJson = {
         "name": "Concertino für Violine und Orchester",
         "type": "3 Sätze",
         "date": 2003.0,
-        "instruments": "Solo-Violine und Streichorchester",
+        "instruments_text": "Solo-Violine und Streichorchester",
+        "instruments": [
+            "Solo-Violine",
+            "Streichorchester"
+        ],
         "duration": "ca. 15 min. 20 sec.",
         "sample": "no"
     },
@@ -415,7 +658,10 @@ songJson = {
         "name": "3 Stücke für 4 Trompeten",
         "type": "3 Stücke ",
         "date": "",
-        "instruments": "4 Trompeten",
+        "instruments_text": "4 Trompeten",
+        "instruments": [
+            "4 Trompeten"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -423,7 +669,12 @@ songJson = {
         "name": "2. Streichquartett",
         "type": "3 Sätze",
         "date": 2005.0,
-        "instruments": "2 Violinen, Viola und Violoncello",
+        "instruments_text": "2 Violinen, Viola und Violoncello",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Violoncello"
+        ],
         "duration": "ca. 19 min. 20 sec.",
         "sample": "no"
     },
@@ -431,7 +682,10 @@ songJson = {
         "name": "9 Kleine Klavierstücke",
         "type": "9 Stücke",
         "date": 2005.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 14 min. 40 sec.",
         "sample": "no"
     },
@@ -439,7 +693,10 @@ songJson = {
         "name": "Kleinigkeiten",
         "type": "25 Stücke",
         "date": 2005.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 22 min. 25 sec.",
         "sample": "no"
     },
@@ -447,7 +704,25 @@ songJson = {
         "name": "Oper \"Erik Jan Hanussen\" v. Th. Hanisch",
         "type": "",
         "date": 2005.0,
-        "instruments": "Sänger(innen), Chor,Orch. 1,2,2,1,1,2,1,2,1;2,3,2,1,Schl.+ Str.",
+        "instruments_text": "Sänger(innen), Chor,Orch. 1,2,2,1,1,2,1,2,1;2,3,2,1,Schl.+ Str.",
+        "instruments": [
+            "Sänger(innen)",
+            "Chor",
+            "Orch. 1",
+            "2",
+            "2",
+            "1",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1;2",
+            "3",
+            "2",
+            "1",
+            "Schl.",
+            "Str."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -455,7 +730,10 @@ songJson = {
         "name": "Orgelfantasie II  ",
         "type": "1 Satz",
         "date": 2005.0,
-        "instruments": "Orgel",
+        "instruments_text": "Orgel",
+        "instruments": [
+            "Orgel"
+        ],
         "duration": "ca. 11 min. ",
         "sample": "no"
     },
@@ -463,7 +741,11 @@ songJson = {
         "name": "Sonatine für Trompete und Klavier",
         "type": "3 Sätze",
         "date": 2005.0,
-        "instruments": "Trompete und Klavier",
+        "instruments_text": "Trompete und Klavier",
+        "instruments": [
+            "Trompete",
+            "Klavier"
+        ],
         "duration": "ca. 5 min. 40 sec.",
         "sample": "no"
     },
@@ -471,7 +753,10 @@ songJson = {
         "name": "Von A bis K",
         "type": "11 Stücke",
         "date": 2005.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 17 min. 35 sec.",
         "sample": "no"
     },
@@ -479,7 +764,11 @@ songJson = {
         "name": "1. Cellosonate ",
         "type": "4 Sätze",
         "date": 2006.0,
-        "instruments": "Violoncello und Klavier",
+        "instruments_text": "Violoncello und Klavier",
+        "instruments": [
+            "Violoncello",
+            "Klavier"
+        ],
         "duration": "ca. 20 min. 27 sec.",
         "sample": "no"
     },
@@ -487,7 +776,12 @@ songJson = {
         "name": "2. Klaviertrio",
         "type": "4 Sätze",
         "date": 2006.0,
-        "instruments": "Violine, Violoncello und Klavier",
+        "instruments_text": "Violine, Violoncello und Klavier",
+        "instruments": [
+            "Violine",
+            "Violoncello",
+            "Klavier"
+        ],
         "duration": "ca. 22 min. 08 sec.",
         "sample": "no"
     },
@@ -495,7 +789,10 @@ songJson = {
         "name": "Präludium und Fuge",
         "type": "2 Stücke",
         "date": 2006.0,
-        "instruments": "Klavier für die linke Hand alleine",
+        "instruments_text": "Klavier für die linke Hand alleine",
+        "instruments": [
+            "Klavier für die linke Hand alleine"
+        ],
         "duration": "ca. 2 min. 20 sec.  ",
         "sample": "no"
     },
@@ -503,7 +800,10 @@ songJson = {
         "name": "Sommerspiele 2006",
         "type": "15 Stücke",
         "date": 2006.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 23 min. 48 sec.",
         "sample": "no"
     },
@@ -511,7 +811,17 @@ songJson = {
         "name": "F 12 M",
         "type": "1 Satz",
         "date": 2007.0,
-        "instruments": "S.+ A. Sax., Klar.+Bassklar., Horn, Tuba, Klav., 2 Viol. 1 Viola Vc. Kb. ",
+        "instruments_text": "S.+ A. Sax., Klar.+Bassklar., Horn, Tuba, Klav., 2 Viol. 1 Viola Vc. Kb. ",
+        "instruments": [
+            "S.",
+            "A. Sax.",
+            "Klar.",
+            "Bassklar.",
+            "Horn",
+            "Tuba",
+            "Klav.",
+            "2 Viol. 1 Viola Vc. Kb."
+        ],
         "duration": "ca. 8 min. 20 sec.",
         "sample": "no"
     },
@@ -519,7 +829,15 @@ songJson = {
         "name": "4 Orchesterstücke",
         "type": "4 Sätze",
         "date": 2007.0,
-        "instruments": "2 Fl.+ 2 Ob.+ 2 Klar.+ 2 Fag./ 2Trom.+ 2 Hrn.+ 2 Pos./ Pk./Str.",
+        "instruments_text": "2 Fl.+ 2 Ob.+ 2 Klar.+ 2 Fag./ 2Trom.+ 2 Hrn.+ 2 Pos./ Pk./Str.",
+        "instruments": [
+            "2 Fl.",
+            "2 Ob.",
+            "2 Klar.",
+            "2 Fag./ 2Trom.",
+            "2 Hrn.",
+            "2 Pos./ Pk./Str."
+        ],
         "duration": "ca. 27 min. 10 sec.",
         "sample": "no"
     },
@@ -527,7 +845,14 @@ songJson = {
         "name": "Kleine Suite",
         "type": "5 Sätze",
         "date": 2007.0,
-        "instruments": "Flöte, Oboe, Klarinette, Horn und Fagott",
+        "instruments_text": "Flöte, Oboe, Klarinette, Horn und Fagott",
+        "instruments": [
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Horn",
+            "Fagott"
+        ],
         "duration": "ca. 9 min.",
         "sample": "no"
     },
@@ -535,7 +860,10 @@ songJson = {
         "name": "1. Mozart-Variationen",
         "type": "20 Var.+ Fin.",
         "date": 2008.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 21 min. 37 sec.",
         "sample": "no"
     },
@@ -543,7 +871,10 @@ songJson = {
         "name": "Hasleiten-Suite",
         "type": "12 Stücke",
         "date": 2008.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 22 min. 47 sec.",
         "sample": "no"
     },
@@ -551,7 +882,12 @@ songJson = {
         "name": "Haydn-Fantasie",
         "type": "1 Satz",
         "date": 2008.0,
-        "instruments": "2 Violinen + Viola + Violoncello ",
+        "instruments_text": "2 Violinen + Viola + Violoncello ",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Violoncello"
+        ],
         "duration": "ca. 10 min.",
         "sample": "no"
     },
@@ -559,7 +895,10 @@ songJson = {
         "name": "Nachdenklichkeiten",
         "type": "7 Stücke",
         "date": 2008.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -567,7 +906,10 @@ songJson = {
         "name": "Schwingungen",
         "type": "7 Stücke",
         "date": 2008.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -575,7 +917,11 @@ songJson = {
         "name": "1. Sonatine",
         "type": "4 Sätze",
         "date": 2009.0,
-        "instruments": "Horn und Klavier",
+        "instruments_text": "Horn und Klavier",
+        "instruments": [
+            "Horn",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -583,7 +929,12 @@ songJson = {
         "name": "2 Taiwanesische Lieder",
         "type": "2 Lieder",
         "date": 2009.0,
-        "instruments": "Gesang, Klarinette und Klavier",
+        "instruments_text": "Gesang, Klarinette und Klavier",
+        "instruments": [
+            "Gesang",
+            "Klarinette",
+            "Klavier"
+        ],
         "duration": "ca. 7 min. 50 sec.",
         "sample": "no"
     },
@@ -591,7 +942,10 @@ songJson = {
         "name": "2. Varia 2009",
         "type": "35 Var.+ Fuge",
         "date": 2009.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 15 min. 20 sec.",
         "sample": "no"
     },
@@ -599,7 +953,12 @@ songJson = {
         "name": "3. Streichquartett",
         "type": "3 Sätze",
         "date": 2009.0,
-        "instruments": "2 Viol., Viola und Cello",
+        "instruments_text": "2 Viol., Viola und Cello",
+        "instruments": [
+            "2 Viol.",
+            "Viola",
+            "Cello"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -607,7 +966,12 @@ songJson = {
         "name": "Sonatine 2009",
         "type": "3 Sätze",
         "date": 2009.0,
-        "instruments": "Tenor-, oder Sopranblockflöte und Klavier",
+        "instruments_text": "Tenor-, oder Sopranblockflöte und Klavier",
+        "instruments": [
+            "Tenor-",
+            "oder Sopranblockflöte",
+            "Klavier"
+        ],
         "duration": "ca. 8 min. 50 sec.",
         "sample": "no"
     },
@@ -615,7 +979,10 @@ songJson = {
         "name": "1. Sonate",
         "type": "3 Sätze",
         "date": 2010.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 16 min. 30 sec.",
         "sample": "no"
     },
@@ -623,7 +990,13 @@ songJson = {
         "name": "2. Klavierquintett",
         "type": "4 Sätze",
         "date": 2010.0,
-        "instruments": "2 Violinen + Viola + Violoncello + Klavier",
+        "instruments_text": "2 Violinen + Viola + Violoncello + Klavier",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Violoncello",
+            "Klavier"
+        ],
         "duration": "ca. 25 min.",
         "sample": "no"
     },
@@ -631,7 +1004,10 @@ songJson = {
         "name": "3 Stücke für 4 Hörner",
         "type": "3 Stücke",
         "date": 2010.0,
-        "instruments": "4 Hörner",
+        "instruments_text": "4 Hörner",
+        "instruments": [
+            "4 Hörner"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -639,7 +1015,12 @@ songJson = {
         "name": "3. Klaviertrio",
         "type": "3 Sätze",
         "date": 2010.0,
-        "instruments": "Violine, Violoncello und Klavier",
+        "instruments_text": "Violine, Violoncello und Klavier",
+        "instruments": [
+            "Violine",
+            "Violoncello",
+            "Klavier"
+        ],
         "duration": "ca. 19 min. 46 sec.",
         "sample": "no"
     },
@@ -647,7 +1028,10 @@ songJson = {
         "name": "Caprissen",
         "type": "12 Stücke",
         "date": 2010.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 18 min. 42 sec.",
         "sample": "no"
     },
@@ -655,7 +1039,18 @@ songJson = {
         "name": "Doppelquintett",
         "type": "3 Sätze",
         "date": 2010.0,
-        "instruments": "Flöte, Oboe, Klarinette, Horn, Fagott, 2 Violinen, Viola, Violoncello und Kontrabass ",
+        "instruments_text": "Flöte, Oboe, Klarinette, Horn, Fagott, 2 Violinen, Viola, Violoncello und Kontrabass ",
+        "instruments": [
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Horn",
+            "Fagott",
+            "2 Violinen",
+            "Viola",
+            "Violoncello",
+            "Kontrabass"
+        ],
         "duration": "ca. 14 min. 20 sec.",
         "sample": "no"
     },
@@ -663,7 +1058,10 @@ songJson = {
         "name": "Klangbilder",
         "type": "7 Stücke",
         "date": 2010.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 17 min.",
         "sample": "no"
     },
@@ -671,7 +1069,11 @@ songJson = {
         "name": "2. Sonatine",
         "type": "3 Sätze",
         "date": 2010.0,
-        "instruments": "Horn und Klavier",
+        "instruments_text": "Horn und Klavier",
+        "instruments": [
+            "Horn",
+            "Klavier"
+        ],
         "duration": "ca. 8 min. 55 sec.",
         "sample": "no"
     },
@@ -679,7 +1081,10 @@ songJson = {
         "name": "Suite",
         "type": "3 Sätze",
         "date": 2010.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -687,7 +1092,13 @@ songJson = {
         "name": "2. Klavierquintett",
         "type": "4 Sätze",
         "date": 2011.0,
-        "instruments": "2 Violinen, Viola, Cello und Klavier",
+        "instruments_text": "2 Violinen, Viola, Cello und Klavier",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -695,7 +1106,11 @@ songJson = {
         "name": "2. Sonate",
         "type": "3 Sätze",
         "date": 2011.0,
-        "instruments": "Violine und Klavier",
+        "instruments_text": "Violine und Klavier",
+        "instruments": [
+            "Violine",
+            "Klavier"
+        ],
         "duration": "ca. 12 min. 15 sec.",
         "sample": "no"
     },
@@ -703,7 +1118,11 @@ songJson = {
         "name": "1. Sonate",
         "type": "3 Sätze",
         "date": 2011.0,
-        "instruments": "B-Klarinette und Klavier",
+        "instruments_text": "B-Klarinette und Klavier",
+        "instruments": [
+            "B-Klarinette",
+            "Klavier"
+        ],
         "duration": "ca. 12 min. 50 sec.",
         "sample": "no"
     },
@@ -711,7 +1130,10 @@ songJson = {
         "name": "3 Stücke für Klavier",
         "type": "3 Stücke",
         "date": 2011.0,
-        "instruments": "Klavier",
+        "instruments_text": "Klavier",
+        "instruments": [
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -719,7 +1141,10 @@ songJson = {
         "name": "3. Variationen 2011",
         "type": "42 Var.",
         "date": 2011.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 16 min. 20 sec.",
         "sample": "no"
     },
@@ -727,7 +1152,12 @@ songJson = {
         "name": "4. Klaviertrio",
         "type": "3 Sätze",
         "date": 2011.0,
-        "instruments": "Flöte, Fagott und Klavier",
+        "instruments_text": "Flöte, Fagott und Klavier",
+        "instruments": [
+            "Flöte",
+            "Fagott",
+            "Klavier"
+        ],
         "duration": "ca. 9 min. 20 sec.",
         "sample": "no"
     },
@@ -735,7 +1165,10 @@ songJson = {
         "name": "Sommer 2011",
         "type": "12 Stücke",
         "date": 2011.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 24 min. 41 sec.",
         "sample": "no"
     },
@@ -743,7 +1176,11 @@ songJson = {
         "name": "1. Klavierkonzert",
         "type": "3 Sätze",
         "date": 2012.0,
-        "instruments": "Klavier solo + Orchester",
+        "instruments_text": "Klavier solo + Orchester",
+        "instruments": [
+            "Klavier solo",
+            "Orchester"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -751,7 +1188,13 @@ songJson = {
         "name": "1.Klavierquartett",
         "type": "3 Sätze",
         "date": 2012.0,
-        "instruments": "Violine + Klarinette + Cello + Klavier",
+        "instruments_text": "Violine + Klarinette + Cello + Klavier",
+        "instruments": [
+            "Violine",
+            "Klarinette",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -759,7 +1202,13 @@ songJson = {
         "name": "3. Klavierquintett",
         "type": "3 Sätze",
         "date": 2012.0,
-        "instruments": "2 Violinen + Viola + Cello + Klavier.",
+        "instruments_text": "2 Violinen + Viola + Cello + Klavier.",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Klavier."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -767,7 +1216,10 @@ songJson = {
         "name": "4. Sonatine",
         "type": "3 Sätze",
         "date": 2012.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "ca. 4' 25''",
         "sample": "no"
     },
@@ -775,7 +1227,10 @@ songJson = {
         "name": "Caprissen",
         "type": "5 Stücke",
         "date": 2012.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -783,7 +1238,21 @@ songJson = {
         "name": "Orchestervariationen ",
         "type": "15 Varia.",
         "date": 2012.0,
-        "instruments": "1+2, 2+1,2+1, 2+1. 2+2+2+1. 4Schl. Pauken, Streicher",
+        "instruments_text": "1+2, 2+1,2+1, 2+1. 2+2+2+1. 4Schl. Pauken, Streicher",
+        "instruments": [
+            "1",
+            "2",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1. 2",
+            "2",
+            "2",
+            "1. 4Schl. Pauken",
+            "Streicher"
+        ],
         "duration": "ca.14' 30''",
         "sample": "no"
     },
@@ -791,7 +1260,10 @@ songJson = {
         "name": "Sommer 2012",
         "type": "15 Stücke",
         "date": 2012.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -799,7 +1271,11 @@ songJson = {
         "name": "Sonatine",
         "type": "4 Sätze",
         "date": 2012.0,
-        "instruments": "Fagott und Klavier",
+        "instruments_text": "Fagott und Klavier",
+        "instruments": [
+            "Fagott",
+            "Klavier"
+        ],
         "duration": "ca. 8' 23''",
         "sample": "no"
     },
@@ -807,7 +1283,11 @@ songJson = {
         "name": "3 Sätze für Trompete und Klavier",
         "type": "3 Sätze",
         "date": 2013.0,
-        "instruments": "Trompete und Klavier",
+        "instruments_text": "Trompete und Klavier",
+        "instruments": [
+            "Trompete",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -815,7 +1295,26 @@ songJson = {
         "name": "4 Orchesterstücke 2013",
         "type": "4 Stücke",
         "date": 2013.0,
-        "instruments": "1+2, 1+1, 1+2+1, 2+1, 2+2+2+1, Pau+Schl., Klav., Streicher",
+        "instruments_text": "1+2, 1+1, 1+2+1, 2+1, 2+2+2+1, Pau+Schl., Klav., Streicher",
+        "instruments": [
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "2",
+            "2",
+            "1",
+            "Pau",
+            "Schl.",
+            "Klav.",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -823,7 +1322,13 @@ songJson = {
         "name": "4. Klavierquintett",
         "type": "4 Sätze",
         "date": 2013.0,
-        "instruments": "2 Viol., Viola und Cello und Klavier",
+        "instruments_text": "2 Viol., Viola und Cello und Klavier",
+        "instruments": [
+            "2 Viol.",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -831,7 +1336,13 @@ songJson = {
         "name": "Concerto Crosso",
         "type": "4 Sätze",
         "date": 2013.0,
-        "instruments": "Solo-Streichquintett, Streichorchester 2 Hörner, Klavier und Pauken",
+        "instruments_text": "Solo-Streichquintett, Streichorchester 2 Hörner, Klavier und Pauken",
+        "instruments": [
+            "Solo-Streichquintett",
+            "Streichorchester 2 Hörner",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -839,7 +1350,16 @@ songJson = {
         "name": "Divertimento f. Str. Bäser, Kla. Pauken",
         "type": "6 Sätze",
         "date": 2013.0,
-        "instruments": "Streicher, Trompete, Horn, Posaune, Basstuba, Klavier, Pauken  ",
+        "instruments_text": "Streicher, Trompete, Horn, Posaune, Basstuba, Klavier, Pauken  ",
+        "instruments": [
+            "Streicher",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -847,7 +1367,14 @@ songJson = {
         "name": "Doppelkonzert",
         "type": "4 Sätze",
         "date": 2013.0,
-        "instruments": "Solo-Violine, Solo-Klavier, 2 Hörner, Streicher und Schlagzeug",
+        "instruments_text": "Solo-Violine, Solo-Klavier, 2 Hörner, Streicher und Schlagzeug",
+        "instruments": [
+            "Solo-Violine",
+            "Solo-Klavier",
+            "2 Hörner",
+            "Streicher",
+            "Schlagzeug"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -855,7 +1382,18 @@ songJson = {
         "name": "Konzert für Flöte und kleines Orchester",
         "type": "3 Sätze",
         "date": 2013.0,
-        "instruments": "Flöte solo, 2 Hörner, 1. + 2. Viol., Violen, Celli, Kb., Klavier und Pauken",
+        "instruments_text": "Flöte solo, 2 Hörner, 1. + 2. Viol., Violen, Celli, Kb., Klavier und Pauken",
+        "instruments": [
+            "Flöte solo",
+            "2 Hörner",
+            "1.",
+            "2. Viol.",
+            "Violen",
+            "Celli",
+            "Kb.",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -863,7 +1401,18 @@ songJson = {
         "name": "Konzert für Horn und kleines Orchester",
         "type": "3 Sätze",
         "date": 2013.0,
-        "instruments": "Horn solo, 1. + 2. Viol., Violen, Celli, Kb., Klavier, Glocken und Schz.",
+        "instruments_text": "Horn solo, 1. + 2. Viol., Violen, Celli, Kb., Klavier, Glocken und Schz.",
+        "instruments": [
+            "Horn solo",
+            "1.",
+            "2. Viol.",
+            "Violen",
+            "Celli",
+            "Kb.",
+            "Klavier",
+            "Glocken",
+            "Schz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -871,7 +1420,13 @@ songJson = {
         "name": "Musik I ",
         "type": "4 Sätze",
         "date": 2013.0,
-        "instruments": "Streicher, Klavier, Schlagzeug,",
+        "instruments_text": "Streicher, Klavier, Schlagzeug,",
+        "instruments": [
+            "Streicher",
+            "Klavier",
+            "Schlagzeug",
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -879,7 +1434,13 @@ songJson = {
         "name": "Musik II ",
         "type": "4 Sätze",
         "date": 2013.0,
-        "instruments": "Streicher, Klavier, Schlagzeug,",
+        "instruments_text": "Streicher, Klavier, Schlagzeug,",
+        "instruments": [
+            "Streicher",
+            "Klavier",
+            "Schlagzeug",
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -887,7 +1448,12 @@ songJson = {
         "name": "Musik III ",
         "type": "4 Sätze",
         "date": 2013.0,
-        "instruments": "Streicher, Klavier und Pauken",
+        "instruments_text": "Streicher, Klavier und Pauken",
+        "instruments": [
+            "Streicher",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -895,7 +1461,17 @@ songJson = {
         "name": "Musik IV",
         "type": "4. Sätze",
         "date": 2013.0,
-        "instruments": "Streicher, Flöte, Oboe, Klarinette, Fagott, 2 Hörner, Klavier, Pauken",
+        "instruments_text": "Streicher, Flöte, Oboe, Klarinette, Fagott, 2 Hörner, Klavier, Pauken",
+        "instruments": [
+            "Streicher",
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Fagott",
+            "2 Hörner",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -903,7 +1479,15 @@ songJson = {
         "name": "Musik V",
         "type": "4 Sätze",
         "date": 2013.0,
-        "instruments": "Streicher, 2 Hörner, Oboe, Fagott, Klavier und Pauken ",
+        "instruments_text": "Streicher, 2 Hörner, Oboe, Fagott, Klavier und Pauken ",
+        "instruments": [
+            "Streicher",
+            "2 Hörner",
+            "Oboe",
+            "Fagott",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -911,7 +1495,14 @@ songJson = {
         "name": "Sonate für Streicher und Pauken",
         "type": "4 Sätze",
         "date": 2013.0,
-        "instruments": "1. + 2. Violinen, Violen, Celli, Kb. Und Pauken",
+        "instruments_text": "1. + 2. Violinen, Violen, Celli, Kb. Und Pauken",
+        "instruments": [
+            "1.",
+            "2. Violinen",
+            "Violen",
+            "Celli",
+            "Kb. Und Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -919,7 +1510,15 @@ songJson = {
         "name": "1. Trompetenkonzert",
         "type": "3 Sätze",
         "date": 2014.0,
-        "instruments": "Solo-Trompete, 2 Hörner, Basstuba, Pauken, Klavier und Streicher",
+        "instruments_text": "Solo-Trompete, 2 Hörner, Basstuba, Pauken, Klavier und Streicher",
+        "instruments": [
+            "Solo-Trompete",
+            "2 Hörner",
+            "Basstuba",
+            "Pauken",
+            "Klavier",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -927,7 +1526,10 @@ songJson = {
         "name": "2 Klavierstücke",
         "type": "2 Stücke",
         "date": 2014.0,
-        "instruments": "Klavier solo  ",
+        "instruments_text": "Klavier solo  ",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -935,7 +1537,13 @@ songJson = {
         "name": "2. Klavierquartett ",
         "type": "4 Sätze",
         "date": 2014.0,
-        "instruments": "Violine, Klarinette, Cello und Klavier",
+        "instruments_text": "Violine, Klarinette, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Klarinette",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -943,7 +1551,11 @@ songJson = {
         "name": "3. Sonate für Violine und Klavier",
         "type": "4 Sätze",
         "date": 2014.0,
-        "instruments": "Violine und Klavier",
+        "instruments_text": "Violine und Klavier",
+        "instruments": [
+            "Violine",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -951,7 +1563,13 @@ songJson = {
         "name": "Musik IX",
         "type": "4 Sätze",
         "date": 2014.0,
-        "instruments": "2 Hörner, Schlagzeug, Klavier und Streicher",
+        "instruments_text": "2 Hörner, Schlagzeug, Klavier und Streicher",
+        "instruments": [
+            "2 Hörner",
+            "Schlagzeug",
+            "Klavier",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -959,7 +1577,12 @@ songJson = {
         "name": "Musik VI",
         "type": "4 Sätze",
         "date": 2014.0,
-        "instruments": "Streicher, Klavier und Pauken",
+        "instruments_text": "Streicher, Klavier und Pauken",
+        "instruments": [
+            "Streicher",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -967,7 +1590,12 @@ songJson = {
         "name": "Musik VII",
         "type": "3 Sätze",
         "date": 2014.0,
-        "instruments": "Streicher, Klavier und Pauken",
+        "instruments_text": "Streicher, Klavier und Pauken",
+        "instruments": [
+            "Streicher",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -975,7 +1603,16 @@ songJson = {
         "name": "Musik VIII",
         "type": "4 Sätze",
         "date": 2014.0,
-        "instruments": "2 Flöten, 2 Oboen, 2 Klarin., 2 Fagotte, Trompete, 2 Hörner, Klavier Schlagz. U. Streicher",
+        "instruments_text": "2 Flöten, 2 Oboen, 2 Klarin., 2 Fagotte, Trompete, 2 Hörner, Klavier Schlagz. U. Streicher",
+        "instruments": [
+            "2 Flöten",
+            "2 Oboen",
+            "2 Klarin.",
+            "2 Fagotte",
+            "Trompete",
+            "2 Hörner",
+            "Klavier Schlagz. U. Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -983,7 +1620,15 @@ songJson = {
         "name": "Musik X",
         "type": "4 Sätze",
         "date": 2014.0,
-        "instruments": "Trop., 2 Hörn., Pos., Schlagzeug, Klavier und Streicher ",
+        "instruments_text": "Trop., 2 Hörn., Pos., Schlagzeug, Klavier und Streicher ",
+        "instruments": [
+            "Trop.",
+            "2 Hörn.",
+            "Pos.",
+            "Schlagzeug",
+            "Klavier",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -991,7 +1636,11 @@ songJson = {
         "name": "Sonate",
         "type": "3 Sätze",
         "date": 2014.0,
-        "instruments": "Viola und Klavier",
+        "instruments_text": "Viola und Klavier",
+        "instruments": [
+            "Viola",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -999,7 +1648,14 @@ songJson = {
         "name": "1. Klaviersextett",
         "type": "4 Sätze",
         "date": 2015.0,
-        "instruments": "2 Violinen, Viola, Cello, Kontrabass und Klavier",
+        "instruments_text": "2 Violinen, Viola, Cello, Kontrabass und Klavier",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1007,7 +1663,11 @@ songJson = {
         "name": "2. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2015.0,
-        "instruments": "Klavier solo und Orchester",
+        "instruments_text": "Klavier solo und Orchester",
+        "instruments": [
+            "Klavier solo",
+            "Orchester"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1015,7 +1675,10 @@ songJson = {
         "name": "4 Jahreszeiten (Herbst, Winter)",
         "type": "2 x 4 Sätze",
         "date": 2015.0,
-        "instruments": "Orchester",
+        "instruments_text": "Orchester",
+        "instruments": [
+            "Orchester"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1023,7 +1686,18 @@ songJson = {
         "name": "5 + 1 + 5",
         "type": "4 Sätze",
         "date": 2015.0,
-        "instruments": "Fl., Ob. Kla., Horn, Fag., Klavier, 2 Viol., Viola, Cello und Kb.",
+        "instruments_text": "Fl., Ob. Kla., Horn, Fag., Klavier, 2 Viol., Viola, Cello und Kb.",
+        "instruments": [
+            "Fl.",
+            "Ob. Kla.",
+            "Horn",
+            "Fag.",
+            "Klavier",
+            "2 Viol.",
+            "Viola",
+            "Cello",
+            "Kb."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1031,7 +1705,12 @@ songJson = {
         "name": "5. Klaviertrio ",
         "type": "4 Sätze",
         "date": 2015.0,
-        "instruments": "Violine, Klarinette und Klavier",
+        "instruments_text": "Violine, Klarinette und Klavier",
+        "instruments": [
+            "Violine",
+            "Klarinette",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1039,7 +1718,19 @@ songJson = {
         "name": "Musik XI",
         "type": "4 Sätze",
         "date": 2015.0,
-        "instruments": "Fl., Ob. Kla., 2 Hrn, Fag., Klavier, Viol., Viola, Celli, Kb. und Schlz. ",
+        "instruments_text": "Fl., Ob. Kla., 2 Hrn, Fag., Klavier, Viol., Viola, Celli, Kb. und Schlz. ",
+        "instruments": [
+            "Fl.",
+            "Ob. Kla.",
+            "2 Hrn",
+            "Fag.",
+            "Klavier",
+            "Viol.",
+            "Viola",
+            "Celli",
+            "Kb.",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1047,7 +1738,15 @@ songJson = {
         "name": "Musik XII",
         "type": "4 Sätze",
         "date": 2015.0,
-        "instruments": "Oboe, Fag., 2 Hörner, Xyl., Pauk., Klav. Und Sreicher ",
+        "instruments_text": "Oboe, Fag., 2 Hörner, Xyl., Pauk., Klav. Und Sreicher ",
+        "instruments": [
+            "Oboe",
+            "Fag.",
+            "2 Hörner",
+            "Xyl.",
+            "Pauk.",
+            "Klav. Und Sreicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1055,7 +1754,13 @@ songJson = {
         "name": "Trauermusik für Ray",
         "type": "4 Sätze",
         "date": 2015.0,
-        "instruments": "5 Hörner, Schlagzeug, Klavier und Streicher",
+        "instruments_text": "5 Hörner, Schlagzeug, Klavier und Streicher",
+        "instruments": [
+            "5 Hörner",
+            "Schlagzeug",
+            "Klavier",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1063,7 +1768,18 @@ songJson = {
         "name": "1. Violinkonzert",
         "type": "3 Sätze",
         "date": 2016.0,
-        "instruments": "Viol. solo, Fl., Ob., Kla., Fag., 2 Hör., Pauk., Klav., Viol.solo u. Streicher ",
+        "instruments_text": "Viol. solo, Fl., Ob., Kla., Fag., 2 Hör., Pauk., Klav., Viol.solo u. Streicher ",
+        "instruments": [
+            "Viol. solo",
+            "Fl.",
+            "Ob.",
+            "Kla.",
+            "Fag.",
+            "2 Hör.",
+            "Pauk.",
+            "Klav.",
+            "Viol.solo u. Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1071,7 +1787,10 @@ songJson = {
         "name": "2 Orchsterfantasien",
         "type": "2 Stück",
         "date": 2016.0,
-        "instruments": "Großes Orchester",
+        "instruments_text": "Großes Orchester",
+        "instruments": [
+            "Großes Orchester"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1079,7 +1798,12 @@ songJson = {
         "name": "2. Klaviersextett",
         "type": "4 Sätze",
         "date": 2016.0,
-        "instruments": "Horn, Streichquartett und Klavier",
+        "instruments_text": "Horn, Streichquartett und Klavier",
+        "instruments": [
+            "Horn",
+            "Streichquartett",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1087,7 +1811,11 @@ songJson = {
         "name": "2. Sonate",
         "type": "3 Sätze",
         "date": 2016.0,
-        "instruments": "Klarinette und Klavier",
+        "instruments_text": "Klarinette und Klavier",
+        "instruments": [
+            "Klarinette",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1095,7 +1823,15 @@ songJson = {
         "name": "3. Klaviersextett",
         "type": "4 Sätze",
         "date": 2016.0,
-        "instruments": "Flöte, Oboe, Klarinette, Horn, Fagott und Klavier",
+        "instruments_text": "Flöte, Oboe, Klarinette, Horn, Fagott und Klavier",
+        "instruments": [
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Horn",
+            "Fagott",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1103,7 +1839,10 @@ songJson = {
         "name": "4 Jahreszeiten (Frühling, Sommer)",
         "type": "2 x 4 Sätze",
         "date": 2016.0,
-        "instruments": "Orchester",
+        "instruments_text": "Orchester",
+        "instruments": [
+            "Orchester"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1111,7 +1850,12 @@ songJson = {
         "name": "6. Klaviertrio",
         "type": "4 Sätze",
         "date": 2016.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1119,7 +1863,12 @@ songJson = {
         "name": "7. Klaviertrio",
         "type": "4 Sätze",
         "date": 2016.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1127,7 +1876,10 @@ songJson = {
         "name": "Klavierstücke für Frau Ueba",
         "type": "12 Stücke",
         "date": 2016.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1135,7 +1887,13 @@ songJson = {
         "name": "Musik XIII",
         "type": "4 Sätze",
         "date": 2016.0,
-        "instruments": "Tromp., Schlagzeug, Klavier und Streicher",
+        "instruments_text": "Tromp., Schlagzeug, Klavier und Streicher",
+        "instruments": [
+            "Tromp.",
+            "Schlagzeug",
+            "Klavier",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1143,7 +1901,10 @@ songJson = {
         "name": "Orgelfantasie III",
         "type": "1 Stück",
         "date": 2016.0,
-        "instruments": "Orgel",
+        "instruments_text": "Orgel",
+        "instruments": [
+            "Orgel"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1151,7 +1912,12 @@ songJson = {
         "name": "Zerrbilder",
         "type": "4 Stücke",
         "date": 2016.0,
-        "instruments": "Streicher, Klavier und Schlagzeug",
+        "instruments_text": "Streicher, Klavier und Schlagzeug",
+        "instruments": [
+            "Streicher",
+            "Klavier",
+            "Schlagzeug"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1159,7 +1925,12 @@ songJson = {
         "name": "10. Klaviertrio ",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1167,7 +1938,11 @@ songJson = {
         "name": "2. Cellosonate",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Cello und Klavier",
+        "instruments_text": "Cello und Klavier",
+        "instruments": [
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1175,7 +1950,10 @@ songJson = {
         "name": "2. Sonate",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1183,7 +1961,14 @@ songJson = {
         "name": "2. Trompetenkonzert",
         "type": "3 Sätze",
         "date": 2017.0,
-        "instruments": "Tromp.solo, 2 Hörner, Btuba, Pauk. Klav. und Streicher ",
+        "instruments_text": "Tromp.solo, 2 Hörner, Btuba, Pauk. Klav. und Streicher ",
+        "instruments": [
+            "Tromp.solo",
+            "2 Hörner",
+            "Btuba",
+            "Pauk. Klav.",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1191,7 +1976,13 @@ songJson = {
         "name": "3. Klavierquartett",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Violine, Viola, Cello und Klavier",
+        "instruments_text": "Violine, Viola, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1199,7 +1990,11 @@ songJson = {
         "name": "3. Sonate ",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Klarinette und Klavier",
+        "instruments_text": "Klarinette und Klavier",
+        "instruments": [
+            "Klarinette",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1207,7 +2002,13 @@ songJson = {
         "name": "4. Klavierquartett Suite",
         "type": "12 Sätze",
         "date": 2017.0,
-        "instruments": "Alt-, Tenorsaxophon, Kontrabass und Klavier",
+        "instruments_text": "Alt-, Tenorsaxophon, Kontrabass und Klavier",
+        "instruments": [
+            "Alt-",
+            "Tenorsaxophon",
+            "Kontrabass",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1215,7 +2016,10 @@ songJson = {
         "name": "4. Klaviervariationen",
         "type": "50 + Fuge",
         "date": 2017.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1223,7 +2027,18 @@ songJson = {
         "name": "5 + 1 + 5",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Fl., Ob. Kla., Horn, Fag., Klavier, 2 Viol., Viola, Cello und Kb.",
+        "instruments_text": "Fl., Ob. Kla., Horn, Fag., Klavier, 2 Viol., Viola, Cello und Kb.",
+        "instruments": [
+            "Fl.",
+            "Ob. Kla.",
+            "Horn",
+            "Fag.",
+            "Klavier",
+            "2 Viol.",
+            "Viola",
+            "Cello",
+            "Kb."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1231,7 +2046,14 @@ songJson = {
         "name": "5. Klavierquintett",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Violine, Klarinette, Horn, Cello und Klavier",
+        "instruments_text": "Violine, Klarinette, Horn, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Klarinette",
+            "Horn",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1239,7 +2061,15 @@ songJson = {
         "name": "7 Miniaturen für Blockflötenquintett",
         "type": "7 Sätze",
         "date": 2017.0,
-        "instruments": "Sopran-, Alt-, Tenor-, Bass-, und Großbassblockflöte",
+        "instruments_text": "Sopran-, Alt-, Tenor-, Bass-, und Großbassblockflöte",
+        "instruments": [
+            "Sopran-",
+            "Alt-",
+            "Tenor-",
+            "Bass-",
+            "",
+            "Großbassblockflöte"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1247,7 +2077,12 @@ songJson = {
         "name": "8. Klaviertrio",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Oboe, Fagott und Klavier",
+        "instruments_text": "Oboe, Fagott und Klavier",
+        "instruments": [
+            "Oboe",
+            "Fagott",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1255,7 +2090,10 @@ songJson = {
         "name": "9 Einzugsmärsche",
         "type": "9 Stücke",
         "date": 2017.0,
-        "instruments": "Orchester",
+        "instruments_text": "Orchester",
+        "instruments": [
+            "Orchester"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1263,7 +2101,11 @@ songJson = {
         "name": "9. Klaviertrio",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "2 Hörner und Klavier",
+        "instruments_text": "2 Hörner und Klavier",
+        "instruments": [
+            "2 Hörner",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1271,7 +2113,13 @@ songJson = {
         "name": "Blechbläserseptett",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "2 Trompeten, 2 Hörner, 2 Posaunen und Basstuba",
+        "instruments_text": "2 Trompeten, 2 Hörner, 2 Posaunen und Basstuba",
+        "instruments": [
+            "2 Trompeten",
+            "2 Hörner",
+            "2 Posaunen",
+            "Basstuba"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1279,7 +2127,14 @@ songJson = {
         "name": "Musik XIV",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "2 Oboen, 2 Fag., 4 Hörner, Klavier und Streicher",
+        "instruments_text": "2 Oboen, 2 Fag., 4 Hörner, Klavier und Streicher",
+        "instruments": [
+            "2 Oboen",
+            "2 Fag.",
+            "4 Hörner",
+            "Klavier",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1287,7 +2142,13 @@ songJson = {
         "name": "Musik XV",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Bläserquintett, Schlagzeug, Klavier und Streicher",
+        "instruments_text": "Bläserquintett, Schlagzeug, Klavier und Streicher",
+        "instruments": [
+            "Bläserquintett",
+            "Schlagzeug",
+            "Klavier",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1295,7 +2156,13 @@ songJson = {
         "name": "Musik XVI",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "2 Hörner,Pauken, Klavier und Streicher",
+        "instruments_text": "2 Hörner,Pauken, Klavier und Streicher",
+        "instruments": [
+            "2 Hörner",
+            "Pauken",
+            "Klavier",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1303,7 +2170,11 @@ songJson = {
         "name": "Sonate",
         "type": "3 Sätze",
         "date": 2017.0,
-        "instruments": "Horn und Klavier",
+        "instruments_text": "Horn und Klavier",
+        "instruments": [
+            "Horn",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1311,7 +2182,14 @@ songJson = {
         "name": "Trauermusik",
         "type": "1 Satz",
         "date": 2017.0,
-        "instruments": "Tromp., 2 Hörner, Pos. Btuba, Pauken und Streicher",
+        "instruments_text": "Tromp., 2 Hörner, Pos. Btuba, Pauken und Streicher",
+        "instruments": [
+            "Tromp.",
+            "2 Hörner",
+            "Pos. Btuba",
+            "Pauken",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1319,7 +2197,14 @@ songJson = {
         "name": "Tripelkonzert",
         "type": "4 Sätze",
         "date": 2017.0,
-        "instruments": "Viol.-, Cello- Klavier solo 2 Hörner, Xyl., Pauk., u. Streicher",
+        "instruments_text": "Viol.-, Cello- Klavier solo 2 Hörner, Xyl., Pauk., u. Streicher",
+        "instruments": [
+            "Viol.-",
+            "Cello- Klavier solo 2 Hörner",
+            "Xyl.",
+            "Pauk.",
+            "u. Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1327,7 +2212,12 @@ songJson = {
         "name": "11. Klaviertrio",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1335,7 +2225,10 @@ songJson = {
         "name": "12 Kleine Klavierstücke",
         "type": "12 Stücke",
         "date": 2018.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1343,7 +2236,12 @@ songJson = {
         "name": "12. Klaviertrio",
         "type": "5 Sätze",
         "date": 2019.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1351,7 +2249,11 @@ songJson = {
         "name": "4. Sonate",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "Klarinette und Klavier",
+        "instruments_text": "Klarinette und Klavier",
+        "instruments": [
+            "Klarinette",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1359,7 +2261,12 @@ songJson = {
         "name": "4. Streichquartett",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "2 Violinen, Viola und Cello",
+        "instruments_text": "2 Violinen, Viola und Cello",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1367,7 +2274,18 @@ songJson = {
         "name": "5 + 1 + 5",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "Fl., Ob. Kla., Horn, Fag., Klavier, 2 Viol., Viola, Cello und Kb.",
+        "instruments_text": "Fl., Ob. Kla., Horn, Fag., Klavier, 2 Viol., Viola, Cello und Kb.",
+        "instruments": [
+            "Fl.",
+            "Ob. Kla.",
+            "Horn",
+            "Fag.",
+            "Klavier",
+            "2 Viol.",
+            "Viola",
+            "Cello",
+            "Kb."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1375,7 +2293,10 @@ songJson = {
         "name": "5. Sonatine",
         "type": "3 Sätze",
         "date": 2018.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1383,7 +2304,12 @@ songJson = {
         "name": "6 Meditationen",
         "type": "6 Sätze",
         "date": 2018.0,
-        "instruments": "Doppeldes Streichorchester, Horn und Glocken",
+        "instruments_text": "Doppeldes Streichorchester, Horn und Glocken",
+        "instruments": [
+            "Doppeldes Streichorchester",
+            "Horn",
+            "Glocken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1391,7 +2317,10 @@ songJson = {
         "name": "8 Kleine Stücke für 4 Hörner",
         "type": "8 Stücke",
         "date": 2018.0,
-        "instruments": "4 Hörner in F",
+        "instruments_text": "4 Hörner in F",
+        "instruments": [
+            "4 Hörner in F"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1399,7 +2328,14 @@ songJson = {
         "name": "Doppelkonzert 2018",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "Viol.-solo, Viola-solo, Streicher, Klavier und Schlagzeug",
+        "instruments_text": "Viol.-solo, Viola-solo, Streicher, Klavier und Schlagzeug",
+        "instruments": [
+            "Viol.-solo",
+            "Viola-solo",
+            "Streicher",
+            "Klavier",
+            "Schlagzeug"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1407,7 +2343,11 @@ songJson = {
         "name": "Fantasie",
         "type": "1 Stück",
         "date": 2018.0,
-        "instruments": "Fagott und Klavier",
+        "instruments_text": "Fagott und Klavier",
+        "instruments": [
+            "Fagott",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1415,7 +2355,10 @@ songJson = {
         "name": "Für 2 Klaviere I",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "2 Klaviere solo",
+        "instruments_text": "2 Klaviere solo",
+        "instruments": [
+            "2 Klaviere solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1423,7 +2366,11 @@ songJson = {
         "name": "Klarinettenkonzert",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "Solo-Klarinette und Orchester",
+        "instruments_text": "Solo-Klarinette und Orchester",
+        "instruments": [
+            "Solo-Klarinette",
+            "Orchester"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1431,7 +2378,11 @@ songJson = {
         "name": "Konzert für 2 Klaviere und Orchester",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "2 Klaviere solo und Orchster",
+        "instruments_text": "2 Klaviere solo und Orchster",
+        "instruments": [
+            "2 Klaviere solo",
+            "Orchster"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1439,7 +2390,17 @@ songJson = {
         "name": "Musik XVII",
         "type": "4 Sätze",
         "date": 2018.0,
-        "instruments": "Tromp., 2 Hörn., Pos., Bt. 2x Viol., Violen, Celli, Kb. Klav. und Schlz.",
+        "instruments_text": "Tromp., 2 Hörn., Pos., Bt. 2x Viol., Violen, Celli, Kb. Klav. und Schlz.",
+        "instruments": [
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt. 2x Viol.",
+            "Violen",
+            "Celli",
+            "Kb. Klav.",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1447,7 +2408,10 @@ songJson = {
         "name": "Passacaglia",
         "type": "1 Stück",
         "date": 2018.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1455,7 +2419,11 @@ songJson = {
         "name": "Sonatine",
         "type": "3 Sätze",
         "date": 2018.0,
-        "instruments": "Horn und Klavier",
+        "instruments_text": "Horn und Klavier",
+        "instruments": [
+            "Horn",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1463,7 +2431,10 @@ songJson = {
         "name": "Toccaten",
         "type": "7 Stücke",
         "date": 2018.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1471,7 +2442,17 @@ songJson = {
         "name": "1. Klaviernonett ",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Oboe, Klar., Horn, Fagott, 2 Viol., Viola, Cello und Klavier",
+        "instruments_text": "Oboe, Klar., Horn, Fagott, 2 Viol., Viola, Cello und Klavier",
+        "instruments": [
+            "Oboe",
+            "Klar.",
+            "Horn",
+            "Fagott",
+            "2 Viol.",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1479,7 +2460,12 @@ songJson = {
         "name": "13. Klaviertrio",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1487,7 +2473,12 @@ songJson = {
         "name": "14. Klaviertrio",
         "type": "5 Sätze",
         "date": 2019.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1495,7 +2486,12 @@ songJson = {
         "name": "15. Klaviertrio",
         "type": "6 Sätze",
         "date": 2019.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1503,7 +2499,17 @@ songJson = {
         "name": "2. Klaviernonett ",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Oboe, Klar., Horn, Fagott, 2 Viol., Viola, Cello und Klavier",
+        "instruments_text": "Oboe, Klar., Horn, Fagott, 2 Viol., Viola, Cello und Klavier",
+        "instruments": [
+            "Oboe",
+            "Klar.",
+            "Horn",
+            "Fagott",
+            "2 Viol.",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1511,7 +2517,14 @@ songJson = {
         "name": "2. Klavierseptett",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Ob. Horn, Fag. Viol., Viola, Cello und Klavier",
+        "instruments_text": "Ob. Horn, Fag. Viol., Viola, Cello und Klavier",
+        "instruments": [
+            "Ob. Horn",
+            "Fag. Viol.",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1519,7 +2532,20 @@ songJson = {
         "name": "3. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Klavier solo, Fl., Ob., Klar., Fag., Trom., 2 Hörn., Pos., Bt., Streicher und Schlagz.",
+        "instruments_text": "Klavier solo, Fl., Ob., Klar., Fag., Trom., 2 Hörn., Pos., Bt., Streicher und Schlagz.",
+        "instruments": [
+            "Klavier solo",
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Fag.",
+            "Trom.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt.",
+            "Streicher",
+            "Schlagz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1527,7 +2553,20 @@ songJson = {
         "name": "4. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Klavier solo, Fl., Ob., Klar., Fag., Trom., 2 Hörn., 2 Pos., Bt., Streicher und Schlagz.",
+        "instruments_text": "Klavier solo, Fl., Ob., Klar., Fag., Trom., 2 Hörn., 2 Pos., Bt., Streicher und Schlagz.",
+        "instruments": [
+            "Klavier solo",
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Fag.",
+            "Trom.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "Streicher",
+            "Schlagz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1535,7 +2574,11 @@ songJson = {
         "name": "4. Sonate",
         "type": "3 Sätze",
         "date": 2019.0,
-        "instruments": "Violine und Klavier",
+        "instruments_text": "Violine und Klavier",
+        "instruments": [
+            "Violine",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1543,7 +2586,13 @@ songJson = {
         "name": "6. Klavierquintett",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "2 Violinen, Viola, Cello und Klavier",
+        "instruments_text": "2 Violinen, Viola, Cello und Klavier",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1551,7 +2600,10 @@ songJson = {
         "name": "7 Klavierstücke für Ursula",
         "type": "7 Stücke",
         "date": 2019.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1559,7 +2611,14 @@ songJson = {
         "name": "7. Klavierquintett",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Klarinette, Horn, Violine, Cello und Klavier",
+        "instruments_text": "Klarinette, Horn, Violine, Cello und Klavier",
+        "instruments": [
+            "Klarinette",
+            "Horn",
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1567,7 +2626,14 @@ songJson = {
         "name": "8. Klavierquintett",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Klarinette, Horn, Violine, Cello und Klavier",
+        "instruments_text": "Klarinette, Horn, Violine, Cello und Klavier",
+        "instruments": [
+            "Klarinette",
+            "Horn",
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1575,7 +2641,10 @@ songJson = {
         "name": "9 Klavierstücke für 4 Hände",
         "type": "9 Stücke",
         "date": 2019.0,
-        "instruments": "Klavier 4-händig",
+        "instruments_text": "Klavier 4-händig",
+        "instruments": [
+            "Klavier 4-händig"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1583,7 +2652,13 @@ songJson = {
         "name": "Harfenquintett",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "Harfe, 2 Violinen, Viola und Violoncello",
+        "instruments_text": "Harfe, 2 Violinen, Viola und Violoncello",
+        "instruments": [
+            "Harfe",
+            "2 Violinen",
+            "Viola",
+            "Violoncello"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1591,7 +2666,18 @@ songJson = {
         "name": "Konzert für 2 Violinen und Orchester",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "2 Viol.-solo, Fl., Ob., Klar., Fag., 2 Hörn., Streicher, Klavier und Pauken",
+        "instruments_text": "2 Viol.-solo, Fl., Ob., Klar., Fag., 2 Hörn., Streicher, Klavier und Pauken",
+        "instruments": [
+            "2 Viol.-solo",
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Fag.",
+            "2 Hörn.",
+            "Streicher",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1599,7 +2685,19 @@ songJson = {
         "name": "Musik XIX",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "2 Tromp., 3 Hörn., 2 Pos., Bt., 3x Viol., 3x Viol., 3x Cello, 2x Kb., Klavier und Schlagz.",
+        "instruments_text": "2 Tromp., 3 Hörn., 2 Pos., Bt., 3x Viol., 3x Viol., 3x Cello, 2x Kb., Klavier und Schlagz.",
+        "instruments": [
+            "2 Tromp.",
+            "3 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "3x Viol.",
+            "3x Viol.",
+            "3x Cello",
+            "2x Kb.",
+            "Klavier",
+            "Schlagz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1607,7 +2705,13 @@ songJson = {
         "name": "Musik XVIII",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "4 Hörn., Bt. Streicher, Harfe und Pauken",
+        "instruments_text": "4 Hörn., Bt. Streicher, Harfe und Pauken",
+        "instruments": [
+            "4 Hörn.",
+            "Bt. Streicher",
+            "Harfe",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1615,7 +2719,13 @@ songJson = {
         "name": "Streichseptett",
         "type": "4 Sätze",
         "date": 2019.0,
-        "instruments": "2 Viol., 2 Viol., 2 Cellos und Kb.",
+        "instruments_text": "2 Viol., 2 Viol., 2 Cellos und Kb.",
+        "instruments": [
+            "2 Viol.",
+            "2 Viol.",
+            "2 Cellos",
+            "Kb."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1623,7 +2733,13 @@ songJson = {
         "name": "Trauermusik für Heinz",
         "type": "1 Satz",
         "date": 2019.0,
-        "instruments": "2 Hörn., Bt. Klavier, Viol.-solo und Streicher",
+        "instruments_text": "2 Hörn., Bt. Klavier, Viol.-solo und Streicher",
+        "instruments": [
+            "2 Hörn.",
+            "Bt. Klavier",
+            "Viol.-solo",
+            "Streicher"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1631,7 +2747,13 @@ songJson = {
         "name": "10. Klavierqintett",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2 Violinen, Viola, Cello und Klavier",
+        "instruments_text": "2 Violinen, Viola, Cello und Klavier",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1639,7 +2761,10 @@ songJson = {
         "name": "12 Klavierstücke",
         "type": "12 Stücke",
         "date": 2020.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1647,7 +2772,12 @@ songJson = {
         "name": "16. Klaviertrio",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Viol., Cello und Klavier",
+        "instruments_text": "Viol., Cello und Klavier",
+        "instruments": [
+            "Viol.",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1655,7 +2785,11 @@ songJson = {
         "name": "17. Klaviertrio",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2 Celli und Klavier",
+        "instruments_text": "2 Celli und Klavier",
+        "instruments": [
+            "2 Celli",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1663,7 +2797,12 @@ songJson = {
         "name": "18. Klaviertrio",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Altsax., Kb., Klavier",
+        "instruments_text": "Altsax., Kb., Klavier",
+        "instruments": [
+            "Altsax.",
+            "Kb.",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1671,7 +2810,12 @@ songJson = {
         "name": "19. Klaviertrio",
         "type": "5 Sätze",
         "date": 2020.0,
-        "instruments": "Violine, Cello und Klavier",
+        "instruments_text": "Violine, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1679,7 +2823,19 @@ songJson = {
         "name": "3 x 3 + 1",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Ob., Klar., Fag., Tromp., Horn, Pos., Viol., Viola, Cello und Klavier",
+        "instruments_text": "Ob., Klar., Fag., Tromp., Horn, Pos., Viol., Viola, Cello und Klavier",
+        "instruments": [
+            "Ob.",
+            "Klar.",
+            "Fag.",
+            "Tromp.",
+            "Horn",
+            "Pos.",
+            "Viol.",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1687,7 +2843,11 @@ songJson = {
         "name": "3. Cellosonate",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Cello und Klavier",
+        "instruments_text": "Cello und Klavier",
+        "instruments": [
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1695,7 +2855,17 @@ songJson = {
         "name": "3. Klaviernonett",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Fl., Ob., Klar., Horn, Viol., Viola, Cello und Klavier",
+        "instruments_text": "Fl., Ob., Klar., Horn, Viol., Viola, Cello und Klavier",
+        "instruments": [
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Horn",
+            "Viol.",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1703,7 +2873,13 @@ songJson = {
         "name": "3. Klavierseptett",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2 Violinen, 2 Violen, 2 Celli und Klavier",
+        "instruments_text": "2 Violinen, 2 Violen, 2 Celli und Klavier",
+        "instruments": [
+            "2 Violinen",
+            "2 Violen",
+            "2 Celli",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1711,7 +2887,14 @@ songJson = {
         "name": "5 + 2",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Tromp., 2 Hörn., Pos., Bt.,  2 Klaviere",
+        "instruments_text": "Tromp., 2 Hörn., Pos., Bt.,  2 Klaviere",
+        "instruments": [
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt.",
+            "2 Klaviere"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1719,7 +2902,21 @@ songJson = {
         "name": "5. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Klavier solo, Fl., Ob., Klar., Fag., Kfag., 2 Tromp.,  2 Hörn., 2 Pös., Bt., Schlz., ",
+        "instruments_text": "Klavier solo, Fl., Ob., Klar., Fag., Kfag., 2 Tromp.,  2 Hörn., 2 Pös., Bt., Schlz., ",
+        "instruments": [
+            "Klavier solo",
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Fag.",
+            "Kfag.",
+            "2 Tromp.",
+            "2 Hörn.",
+            "2 Pös.",
+            "Bt.",
+            "Schlz.",
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1727,7 +2924,13 @@ songJson = {
         "name": "5. Klavierquartett",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Violine, Klarinette, Cello und Klavier",
+        "instruments_text": "Violine, Klarinette, Cello und Klavier",
+        "instruments": [
+            "Violine",
+            "Klarinette",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1735,7 +2938,12 @@ songJson = {
         "name": "5. Streichquartett",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2 Viol., Viola, Cello",
+        "instruments_text": "2 Viol., Viola, Cello",
+        "instruments": [
+            "2 Viol.",
+            "Viola",
+            "Cello"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1743,7 +2951,11 @@ songJson = {
         "name": "6 Fantasiestücke",
         "type": "6 Stücke",
         "date": 2020.0,
-        "instruments": "Orgel und Trompete",
+        "instruments_text": "Orgel und Trompete",
+        "instruments": [
+            "Orgel",
+            "Trompete"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1751,7 +2963,18 @@ songJson = {
         "name": "6. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Klavier solo, Tromp., 2 Hörn., Pos., Bt., 2x Viol., 2x Viol., 2x Celli und Kb. Schlz.",
+        "instruments_text": "Klavier solo, Tromp., 2 Hörn., Pos., Bt., 2x Viol., 2x Viol., 2x Celli und Kb. Schlz.",
+        "instruments": [
+            "Klavier solo",
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt.",
+            "2x Viol.",
+            "2x Viol.",
+            "2x Celli",
+            "Kb. Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1759,7 +2982,18 @@ songJson = {
         "name": "7. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Klavier solo, Tromp., 2 Hörn., Pos., Bt., 3x Viol., 3x Viol., 3x Celli und 2x Kb. Schlz.",
+        "instruments_text": "Klavier solo, Tromp., 2 Hörn., Pos., Bt., 3x Viol., 3x Viol., 3x Celli und 2x Kb. Schlz.",
+        "instruments": [
+            "Klavier solo",
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt.",
+            "3x Viol.",
+            "3x Viol.",
+            "3x Celli",
+            "2x Kb. Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1767,7 +3001,13 @@ songJson = {
         "name": "9. Klavierqintett",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2 Violinen, Viola, Cello und Klavier",
+        "instruments_text": "2 Violinen, Viola, Cello und Klavier",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1775,7 +3015,16 @@ songJson = {
         "name": "Cellokonzert",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Cello solo, Tromp., 2 Hörn., Pos., 2x Viol., Klavier und Schlz.",
+        "instruments_text": "Cello solo, Tromp., 2 Hörn., Pos., 2x Viol., Klavier und Schlz.",
+        "instruments": [
+            "Cello solo",
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "2x Viol.",
+            "Klavier",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1783,7 +3032,10 @@ songJson = {
         "name": "Celloquartett",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "4 Celli",
+        "instruments_text": "4 Celli",
+        "instruments": [
+            "4 Celli"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1791,7 +3043,17 @@ songJson = {
         "name": "Doppelkonzert",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2Celli solo, 2 Hörn., 2x Viol., Violen, Celli, Kb., Klavier und Schlz.",
+        "instruments_text": "2Celli solo, 2 Hörn., 2x Viol., Violen, Celli, Kb., Klavier und Schlz.",
+        "instruments": [
+            "2Celli solo",
+            "2 Hörn.",
+            "2x Viol.",
+            "Violen",
+            "Celli",
+            "Kb.",
+            "Klavier",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1799,7 +3061,15 @@ songJson = {
         "name": "Ereignisse",
         "type": "4 Stücke",
         "date": 2020.0,
-        "instruments": "4x Viol., 4x Violen, 4x Celli, 4x Kb., Klavier und Schlz.",
+        "instruments_text": "4x Viol., 4x Violen, 4x Celli, 4x Kb., Klavier und Schlz.",
+        "instruments": [
+            "4x Viol.",
+            "4x Violen",
+            "4x Celli",
+            "4x Kb.",
+            "Klavier",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1807,7 +3077,10 @@ songJson = {
         "name": "Für 2 Klaviere II",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2 Klaviere",
+        "instruments_text": "2 Klaviere",
+        "instruments": [
+            "2 Klaviere"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1815,7 +3088,10 @@ songJson = {
         "name": "GAGAGEs",
         "type": "6 Stücke",
         "date": 2020.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1823,7 +3099,17 @@ songJson = {
         "name": "Klavieroktett",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Fl., Klar., Fag., Viol., Viola, Cello, Xylophon und Klavier",
+        "instruments_text": "Fl., Klar., Fag., Viol., Viola, Cello, Xylophon und Klavier",
+        "instruments": [
+            "Fl.",
+            "Klar.",
+            "Fag.",
+            "Viol.",
+            "Viola",
+            "Cello",
+            "Xylophon",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1831,7 +3117,20 @@ songJson = {
         "name": "Musik XX",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2 Tromp., 2 Hörn., 2 Pos., Bt., 3x 1. Viol., 3x 2. Viol., 3x Violen, 3x Celli, 3x Kb., Klav., Schlz.",
+        "instruments_text": "2 Tromp., 2 Hörn., 2 Pos., Bt., 3x 1. Viol., 3x 2. Viol., 3x Violen, 3x Celli, 3x Kb., Klav., Schlz.",
+        "instruments": [
+            "2 Tromp.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "3x 1. Viol.",
+            "3x 2. Viol.",
+            "3x Violen",
+            "3x Celli",
+            "3x Kb.",
+            "Klav.",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1839,7 +3138,19 @@ songJson = {
         "name": "Musik XXI",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Tromp., 2 Hörn., Pos., Bt., 3x Viol., 3x Violen, 3x Celli, 3x Kb., Klavier und Schlz.",
+        "instruments_text": "Tromp., 2 Hörn., Pos., Bt., 3x Viol., 3x Violen, 3x Celli, 3x Kb., Klavier und Schlz.",
+        "instruments": [
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt.",
+            "3x Viol.",
+            "3x Violen",
+            "3x Celli",
+            "3x Kb.",
+            "Klavier",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1847,7 +3158,15 @@ songJson = {
         "name": "Musik XXII",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "2x Viol., 2x Violen, 2x Celli, 2x Kb., 2 Klaviere und Pauken ",
+        "instruments_text": "2x Viol., 2x Violen, 2x Celli, 2x Kb., 2 Klaviere und Pauken ",
+        "instruments": [
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "2x Kb.",
+            "2 Klaviere",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1855,7 +3174,18 @@ songJson = {
         "name": "Quadrupelkonzert",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Viol. Solo, Viola solo, Cello solo, Klavier solo, 4x Viol., 2x Violen, 2x Celli, 2x Kb. und Pauken",
+        "instruments_text": "Viol. Solo, Viola solo, Cello solo, Klavier solo, 4x Viol., 2x Violen, 2x Celli, 2x Kb. und Pauken",
+        "instruments": [
+            "Viol. Solo",
+            "Viola solo",
+            "Cello solo",
+            "Klavier solo",
+            "4x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "2x Kb.",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1863,7 +3193,21 @@ songJson = {
         "name": "Xylophonkonzert",
         "type": "4 Sätze",
         "date": 2020.0,
-        "instruments": "Xyloph. Solo, Fl., Ob., Klar., Fag., 2 Hörn., 2x Viol., 2x Violen, 2x Celli, Kb., Klavier und Schlz.",
+        "instruments_text": "Xyloph. Solo, Fl., Ob., Klar., Fag., 2 Hörn., 2x Viol., 2x Violen, 2x Celli, Kb., Klavier und Schlz.",
+        "instruments": [
+            "Xyloph. Solo",
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Fag.",
+            "2 Hörn.",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb.",
+            "Klavier",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1871,7 +3215,23 @@ songJson = {
         "name": "10. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Klavier solo, 2 Fl., -Ob., -Klar., -Fag., Tromp., 2 Hörn., -Pos., Bt., 2x Viol., -Violen, -Celli., Kb., Schlz.",
+        "instruments_text": "Klavier solo, 2 Fl., -Ob., -Klar., -Fag., Tromp., 2 Hörn., -Pos., Bt., 2x Viol., -Violen, -Celli., Kb., Schlz.",
+        "instruments": [
+            "Klavier solo",
+            "2 Fl.",
+            "-Ob.",
+            "-Klar.",
+            "-Fag.",
+            "Tromp.",
+            "2 Hörn.",
+            "-Pos.",
+            "Bt.",
+            "2x Viol.",
+            "-Violen",
+            "-Celli.",
+            "Kb.",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1879,7 +3239,13 @@ songJson = {
         "name": "11. Klavierquintett",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Violinen, Viola, Cello und Klavier",
+        "instruments_text": "2 Violinen, Viola, Cello und Klavier",
+        "instruments": [
+            "2 Violinen",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1887,7 +3253,23 @@ songJson = {
         "name": "2. Violinkonzert",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Violine s., 2 Fl.,-Ob.,-Klar.,-Fag., Tromp., 2 Hörn., Pos., Bt., 2x Viol., -Violen.,Celli. Kb., Klav., Schlz.",
+        "instruments_text": "Violine s., 2 Fl.,-Ob.,-Klar.,-Fag., Tromp., 2 Hörn., Pos., Bt., 2x Viol., -Violen.,Celli. Kb., Klav., Schlz.",
+        "instruments": [
+            "Violine s.",
+            "2 Fl.",
+            "-Ob.",
+            "-Klar.",
+            "-Fag.",
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt.",
+            "2x Viol.",
+            "-Violen.",
+            "Celli. Kb.",
+            "Klav.",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1895,7 +3277,12 @@ songJson = {
         "name": "20. Klaviertrio",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Viol., Cello und Klavier",
+        "instruments_text": "Viol., Cello und Klavier",
+        "instruments": [
+            "Viol.",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1903,7 +3290,11 @@ songJson = {
         "name": "21. Klaviertrio",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Celli und Klavier",
+        "instruments_text": "2 Celli und Klavier",
+        "instruments": [
+            "2 Celli",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1911,7 +3302,12 @@ songJson = {
         "name": "22. Klaviertrio",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Viol., Cello und Klavier",
+        "instruments_text": "Viol., Cello und Klavier",
+        "instruments": [
+            "Viol.",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1919,7 +3315,12 @@ songJson = {
         "name": "23. Klaviertrio",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Viol., Cello und Klavier",
+        "instruments_text": "Viol., Cello und Klavier",
+        "instruments": [
+            "Viol.",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1927,7 +3328,18 @@ songJson = {
         "name": "4. Klaviernonett",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Fl., Oboe, Klar., Fag., Viol., Viola, Cello, Kb. und Klavier",
+        "instruments_text": "Fl., Oboe, Klar., Fag., Viol., Viola, Cello, Kb. und Klavier",
+        "instruments": [
+            "Fl.",
+            "Oboe",
+            "Klar.",
+            "Fag.",
+            "Viol.",
+            "Viola",
+            "Cello",
+            "Kb.",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1935,7 +3347,13 @@ songJson = {
         "name": "4. Klavierseptett",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Viol., 2Violen, 2 Celli und Klavier",
+        "instruments_text": "2 Viol., 2Violen, 2 Celli und Klavier",
+        "instruments": [
+            "2 Viol.",
+            "2Violen",
+            "2 Celli",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1943,7 +3361,15 @@ songJson = {
         "name": "4. Klaviersextett",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Fl., Ob., Klar., Horn, Fag. und Klavier",
+        "instruments_text": "Fl., Ob., Klar., Horn, Fag. und Klavier",
+        "instruments": [
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Horn",
+            "Fag.",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1951,7 +3377,11 @@ songJson = {
         "name": "4. Sonate",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Cello und Klavier",
+        "instruments_text": "Cello und Klavier",
+        "instruments": [
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1959,7 +3389,18 @@ songJson = {
         "name": "5 + 3 + 1",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Fl., Ob., Klar., Horn, Fag., Viol., Viola, Cello und Klavier",
+        "instruments_text": "Fl., Ob., Klar., Horn, Fag., Viol., Viola, Cello und Klavier",
+        "instruments": [
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Horn",
+            "Fag.",
+            "Viol.",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1967,7 +3408,11 @@ songJson = {
         "name": "5 Duette",
         "type": "5 Stücke",
         "date": 2021.0,
-        "instruments": "Flöte oder Sopran-Blockflöte und Cello",
+        "instruments_text": "Flöte oder Sopran-Blockflöte und Cello",
+        "instruments": [
+            "Flöte oder Sopran-Blockflöte",
+            "Cello"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1975,7 +3420,10 @@ songJson = {
         "name": "5 Stücke für 2 Pauker",
         "type": "5 Stücke",
         "date": 2021.0,
-        "instruments": "Pauken",
+        "instruments_text": "Pauken",
+        "instruments": [
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1983,7 +3431,11 @@ songJson = {
         "name": "5. Sonate",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Violine und Klavier",
+        "instruments_text": "Violine und Klavier",
+        "instruments": [
+            "Violine",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1991,7 +3443,13 @@ songJson = {
         "name": "6. Klavierquartett",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Tromp., Viol., Kb. und Klavier",
+        "instruments_text": "Tromp., Viol., Kb. und Klavier",
+        "instruments": [
+            "Tromp.",
+            "Viol.",
+            "Kb.",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -1999,7 +3457,13 @@ songJson = {
         "name": "6. Streichquartett",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Viol.1, Viol.2, Viola und Cello",
+        "instruments_text": "Viol.1, Viol.2, Viola und Cello",
+        "instruments": [
+            "Viol.1",
+            "Viol.2",
+            "Viola",
+            "Cello"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2007,7 +3471,23 @@ songJson = {
         "name": "8. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Klavier s., 2 Fl., -Ob., -Klar., -Fag., -Tromp., -Hörn., -Pos., Bt., 3x Viol., -Violen, 2x Celli., -Kb., Pauk.",
+        "instruments_text": "Klavier s., 2 Fl., -Ob., -Klar., -Fag., -Tromp., -Hörn., -Pos., Bt., 3x Viol., -Violen, 2x Celli., -Kb., Pauk.",
+        "instruments": [
+            "Klavier s.",
+            "2 Fl.",
+            "-Ob.",
+            "-Klar.",
+            "-Fag.",
+            "-Tromp.",
+            "-Hörn.",
+            "-Pos.",
+            "Bt.",
+            "3x Viol.",
+            "-Violen",
+            "2x Celli.",
+            "-Kb.",
+            "Pauk."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2015,7 +3495,24 @@ songJson = {
         "name": "9. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Klavier s., 2 Fl., -Ob., -Klar., -Fag., Tromp., 2 Hörn., -Pos., Bt., 2x Viol., -Violen, -Celli.,  Kb., Pauk., ",
+        "instruments_text": "Klavier s., 2 Fl., -Ob., -Klar., -Fag., Tromp., 2 Hörn., -Pos., Bt., 2x Viol., -Violen, -Celli.,  Kb., Pauk., ",
+        "instruments": [
+            "Klavier s.",
+            "2 Fl.",
+            "-Ob.",
+            "-Klar.",
+            "-Fag.",
+            "Tromp.",
+            "2 Hörn.",
+            "-Pos.",
+            "Bt.",
+            "2x Viol.",
+            "-Violen",
+            "-Celli.",
+            "Kb.",
+            "Pauk.",
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2023,7 +3520,13 @@ songJson = {
         "name": "Blechbläsersextett",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Tromp., 2 Hörn., Pos. und Bt.",
+        "instruments_text": "2 Tromp., 2 Hörn., Pos. und Bt.",
+        "instruments": [
+            "2 Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2031,7 +3534,10 @@ songJson = {
         "name": "Für 2 Klaviere III",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Klaviere",
+        "instruments_text": "2 Klaviere",
+        "instruments": [
+            "2 Klaviere"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2039,7 +3545,10 @@ songJson = {
         "name": "Für 2 Klaviere IV",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Klaviere",
+        "instruments_text": "2 Klaviere",
+        "instruments": [
+            "2 Klaviere"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2047,7 +3556,11 @@ songJson = {
         "name": "Für Blockflöte und Klavier",
         "type": "7 Stücke",
         "date": 2021.0,
-        "instruments": "Blockflöte und Klavier",
+        "instruments_text": "Blockflöte und Klavier",
+        "instruments": [
+            "Blockflöte",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2055,7 +3568,10 @@ songJson = {
         "name": "Klavier 4-händig",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Klavier",
+        "instruments_text": "Klavier",
+        "instruments": [
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2063,7 +3579,15 @@ songJson = {
         "name": "Musik für 7 Blechbläser, Orgel und Pauken",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Tromp., 2 Hörn., 2 Pos. und Bt., Orgel und Pauken",
+        "instruments_text": "2 Tromp., 2 Hörn., 2 Pos. und Bt., Orgel und Pauken",
+        "instruments": [
+            "2 Tromp.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "Orgel",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2071,7 +3595,18 @@ songJson = {
         "name": "Musik XXIII",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Tromp., 2 Hörn., 2 Pos., Bt. 2x Viol., 2x Violen, 2x Celli, 2x Kb., 2 Klaviere und Schlz.",
+        "instruments_text": "2 Tromp., 2 Hörn., 2 Pos., Bt. 2x Viol., 2x Violen, 2x Celli, 2x Kb., 2 Klaviere und Schlz.",
+        "instruments": [
+            "2 Tromp.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt. 2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "2x Kb.",
+            "2 Klaviere",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2079,7 +3614,18 @@ songJson = {
         "name": "Musik XXIV",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Tromp., 2 Hörn., 2 Pos., Bt., 3x Viol., 3x Violen, 3x Celli, 2x Kb. Klavier und Pauken",
+        "instruments_text": "Tromp., 2 Hörn., 2 Pos., Bt., 3x Viol., 3x Violen, 3x Celli, 2x Kb. Klavier und Pauken",
+        "instruments": [
+            "Tromp.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "3x Viol.",
+            "3x Violen",
+            "3x Celli",
+            "2x Kb. Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2087,7 +3633,19 @@ songJson = {
         "name": "Musik XXIX",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Tromp., Horn, Pos., Bt., 3 x Viol., 3 x Violen, 3 x Celli, 2x Kb., Klavier und Schlz.",
+        "instruments_text": "Tromp., Horn, Pos., Bt., 3 x Viol., 3 x Violen, 3 x Celli, 2x Kb., Klavier und Schlz.",
+        "instruments": [
+            "Tromp.",
+            "Horn",
+            "Pos.",
+            "Bt.",
+            "3 x Viol.",
+            "3 x Violen",
+            "3 x Celli",
+            "2x Kb.",
+            "Klavier",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2095,7 +3653,17 @@ songJson = {
         "name": "Musik XXV",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Tromp., Pos., 2 Klaviere, 2x Viol., 2x Violen, 2x Celli, 2x Kb. und Pauken ",
+        "instruments_text": "Tromp., Pos., 2 Klaviere, 2x Viol., 2x Violen, 2x Celli, 2x Kb. und Pauken ",
+        "instruments": [
+            "Tromp.",
+            "Pos.",
+            "2 Klaviere",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "2x Kb.",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2103,7 +3671,23 @@ songJson = {
         "name": "Musik XXVI",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Fl., -Ob., -Klar., -Fag., Tromp., 2 Hörn., 2 Pos., Bt., 2x Viol., 2x Violen, 2x Celli, Kb., Klav., Schlz.",
+        "instruments_text": "2 Fl., -Ob., -Klar., -Fag., Tromp., 2 Hörn., 2 Pos., Bt., 2x Viol., 2x Violen, 2x Celli, Kb., Klav., Schlz.",
+        "instruments": [
+            "2 Fl.",
+            "-Ob.",
+            "-Klar.",
+            "-Fag.",
+            "Tromp.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb.",
+            "Klav.",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2111,7 +3695,20 @@ songJson = {
         "name": "Musik XXVII",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Tromp., 2 Hörn., Pos., Bt., 2x Viol., 2x Violen, 2x Celli, Kb., Klavier, Xylo. und Schlz.",
+        "instruments_text": "Tromp., 2 Hörn., Pos., Bt., 2x Viol., 2x Violen, 2x Celli, Kb., Klavier, Xylo. und Schlz.",
+        "instruments": [
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt.",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb.",
+            "Klavier",
+            "Xylo.",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2119,7 +3716,17 @@ songJson = {
         "name": "Musik XXVIII",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "3x Viol., 3x Violen, 3x Celli, 2x Kb., Tromp., Xylo., Klavier und Schlz.",
+        "instruments_text": "3x Viol., 3x Violen, 3x Celli, 2x Kb., Tromp., Xylo., Klavier und Schlz.",
+        "instruments": [
+            "3x Viol.",
+            "3x Violen",
+            "3x Celli",
+            "2x Kb.",
+            "Tromp.",
+            "Xylo.",
+            "Klavier",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2127,7 +3734,19 @@ songJson = {
         "name": "1. Orgelkonzert",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Orgel solo, Tromp., 2 Hörn., Pos., Bt., 2x Viol., 2x Violen, 2x Celli, 2x Kb. und Pauken",
+        "instruments_text": "Orgel solo, Tromp., 2 Hörn., Pos., Bt., 2x Viol., 2x Violen, 2x Celli, 2x Kb. und Pauken",
+        "instruments": [
+            "Orgel solo",
+            "Tromp.",
+            "2 Hörn.",
+            "Pos.",
+            "Bt.",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "2x Kb.",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2135,7 +3754,19 @@ songJson = {
         "name": "Quadrupelkonzert",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Tromp.-,Horn-, Pos.-, Bt.solo, 2x Viol., 2x Violen, 2x Celli, Kb., Klavier und Schlz.",
+        "instruments_text": "Tromp.-,Horn-, Pos.-, Bt.solo, 2x Viol., 2x Violen, 2x Celli, Kb., Klavier und Schlz.",
+        "instruments": [
+            "Tromp.-",
+            "Horn-",
+            "Pos.-",
+            "Bt.solo",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb.",
+            "Klavier",
+            "Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2143,7 +3774,12 @@ songJson = {
         "name": "Streichsextett",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "2 Viol., 2 Violen, 2 Celli",
+        "instruments_text": "2 Viol., 2 Violen, 2 Celli",
+        "instruments": [
+            "2 Viol.",
+            "2 Violen",
+            "2 Celli"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2151,7 +3787,21 @@ songJson = {
         "name": "Tripelkonzert",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Viol.-, Cello- Klavier solo 2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Hörn., 2x Viol., Violen, 2x Celli, Kb., Klav., Pau.",
+        "instruments_text": "Viol.-, Cello- Klavier solo 2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Hörn., 2x Viol., Violen, 2x Celli, Kb., Klav., Pau.",
+        "instruments": [
+            "Viol.-",
+            "Cello- Klavier solo 2 Fl.",
+            "2 Ob.",
+            "2 Klar.",
+            "2 Fag.",
+            "2 Hörn.",
+            "2x Viol.",
+            "Violen",
+            "2x Celli",
+            "Kb.",
+            "Klav.",
+            "Pau."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2159,7 +3809,10 @@ songJson = {
         "name": "Variationen und Fuge 2021 V",
         "type": "1 Satz",
         "date": 2021.0,
-        "instruments": "2 Klaviere",
+        "instruments_text": "2 Klaviere",
+        "instruments": [
+            "2 Klaviere"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2167,7 +3820,21 @@ songJson = {
         "name": "Musik XXX",
         "type": "4 Sätze",
         "date": 2021.0,
-        "instruments": "Kl. Fl., 2 Fl., 2 Ob., E.H., 2 Klar. B.Klar. 2 Fag., K.Fag., 3x Viol., 3x Violen, 3x Cellos, K. B., Klav., Schz.",
+        "instruments_text": "Kl. Fl., 2 Fl., 2 Ob., E.H., 2 Klar. B.Klar. 2 Fag., K.Fag., 3x Viol., 3x Violen, 3x Cellos, K. B., Klav., Schz.",
+        "instruments": [
+            "Kl. Fl.",
+            "2 Fl.",
+            "2 Ob.",
+            "E.H.",
+            "2 Klar. B.Klar. 2 Fag.",
+            "K.Fag.",
+            "3x Viol.",
+            "3x Violen",
+            "3x Cellos",
+            "K. B.",
+            "Klav.",
+            "Schz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2175,7 +3842,14 @@ songJson = {
         "name": "Für Orgel und Blechbläser",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Orgel, 2 Tromp., 2 Hörner, Pos. und Bt.",
+        "instruments_text": "Orgel, 2 Tromp., 2 Hörner, Pos. und Bt.",
+        "instruments": [
+            "Orgel",
+            "2 Tromp.",
+            "2 Hörner",
+            "Pos.",
+            "Bt."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2183,7 +3857,11 @@ songJson = {
         "name": "24. Klaviertrio  ",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Viol. Cello und Klavier",
+        "instruments_text": "Viol. Cello und Klavier",
+        "instruments": [
+            "Viol. Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2191,7 +3869,10 @@ songJson = {
         "name": "Für 2 Klaviere V",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "2 Klaviere",
+        "instruments_text": "2 Klaviere",
+        "instruments": [
+            "2 Klaviere"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2199,7 +3880,12 @@ songJson = {
         "name": "7. Streichquartett",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "2 Viol., 2 Viol., u. Cello",
+        "instruments_text": "2 Viol., 2 Viol., u. Cello",
+        "instruments": [
+            "2 Viol.",
+            "2 Viol.",
+            "u. Cello"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2207,7 +3893,15 @@ songJson = {
         "name": "Konzert für 4 Trompeten Orchester",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "4 Trompeten, 2 x Viol. 2 x Violen, 2 x Celli, Kb., Klavier und Pauken",
+        "instruments_text": "4 Trompeten, 2 x Viol. 2 x Violen, 2 x Celli, Kb., Klavier und Pauken",
+        "instruments": [
+            "4 Trompeten",
+            "2 x Viol. 2 x Violen",
+            "2 x Celli",
+            "Kb.",
+            "Klavier",
+            "Pauken"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2215,7 +3909,14 @@ songJson = {
         "name": "12. Klavierquintett",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Klar., Horn, Viol., Cello und Klavier",
+        "instruments_text": "Klar., Horn, Viol., Cello und Klavier",
+        "instruments": [
+            "Klar.",
+            "Horn",
+            "Viol.",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2223,7 +3924,19 @@ songJson = {
         "name": "2. Orgelkonzert   „Fast ein Requiem“",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Orgel solo,2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Viol., 2x Violen, 2x Celli, Kb. und Schz.",
+        "instruments_text": "Orgel solo,2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Viol., 2x Violen, 2x Celli, Kb. und Schz.",
+        "instruments": [
+            "Orgel solo",
+            "2 Tromp.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb.",
+            "Schz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2231,7 +3944,17 @@ songJson = {
         "name": "Musik XXXI",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "2 Solo Viol, Solo Viola, Solo Cello, 2x Viol., 2x Violen, 2x Celli, Kb., Klav. u. Schz. ",
+        "instruments_text": "2 Solo Viol, Solo Viola, Solo Cello, 2x Viol., 2x Violen, 2x Celli, Kb., Klav. u. Schz. ",
+        "instruments": [
+            "2 Solo Viol",
+            "Solo Viola",
+            "Solo Cello",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb.",
+            "Klav. u. Schz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2239,7 +3962,10 @@ songJson = {
         "name": "Orgelvariationen",
         "type": "20 Var.",
         "date": 2022.0,
-        "instruments": "Orgel solo",
+        "instruments_text": "Orgel solo",
+        "instruments": [
+            "Orgel solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2247,7 +3973,14 @@ songJson = {
         "name": "5. Klaviersextett",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Klar., 2 Viol., Viola, Cello und Klavier",
+        "instruments_text": "Klar., 2 Viol., Viola, Cello und Klavier",
+        "instruments": [
+            "Klar.",
+            "2 Viol.",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2255,7 +3988,11 @@ songJson = {
         "name": "7 Miniaturen",
         "type": "7 Stücke",
         "date": 2022.0,
-        "instruments": "Flöte und Klavier",
+        "instruments_text": "Flöte und Klavier",
+        "instruments": [
+            "Flöte",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2263,7 +4000,23 @@ songJson = {
         "name": "11. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Solo Klavier, 2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Trom., 2 Hör., 2 Pos., Bt., 2x Viol., 2x Vio., 2x Cellos, Kb., Schz.",
+        "instruments_text": "Solo Klavier, 2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Trom., 2 Hör., 2 Pos., Bt., 2x Viol., 2x Vio., 2x Cellos, Kb., Schz.",
+        "instruments": [
+            "Solo Klavier",
+            "2 Fl.",
+            "2 Ob.",
+            "2 Klar.",
+            "2 Fag.",
+            "2 Trom.",
+            "2 Hör.",
+            "2 Pos.",
+            "Bt.",
+            "2x Viol.",
+            "2x Vio.",
+            "2x Cellos",
+            "Kb.",
+            "Schz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2271,7 +4024,12 @@ songJson = {
         "name": "25.Klaviertrio",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Viol., Cello und Klavier",
+        "instruments_text": "Viol., Cello und Klavier",
+        "instruments": [
+            "Viol.",
+            "Cello",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2279,7 +4037,16 @@ songJson = {
         "name": "5 + 5 + 1",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Fl., Ob., Klar., Horn, Fag. 2 Viol., Viola, Cello Kb. Und Klavier",
+        "instruments_text": "Fl., Ob., Klar., Horn, Fag. 2 Viol., Viola, Cello Kb. Und Klavier",
+        "instruments": [
+            "Fl.",
+            "Ob.",
+            "Klar.",
+            "Horn",
+            "Fag. 2 Viol.",
+            "Viola",
+            "Cello Kb. Und Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2287,7 +4054,19 @@ songJson = {
         "name": "3. Orgelkonzert",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Orgel solo,2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Viol., 2x Violen, 2x Celli, Kb. und Schz.",
+        "instruments_text": "Orgel solo,2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Viol., 2x Violen, 2x Celli, Kb. und Schz.",
+        "instruments": [
+            "Orgel solo",
+            "2 Tromp.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb.",
+            "Schz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2295,7 +4074,10 @@ songJson = {
         "name": "Sonate ",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2303,7 +4085,14 @@ songJson = {
         "name": "7 gegen 2",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "2 Trom., 2 Hörn., 2 Pos., B. Tuba und 2 Klaviere",
+        "instruments_text": "2 Trom., 2 Hörn., 2 Pos., B. Tuba und 2 Klaviere",
+        "instruments": [
+            "2 Trom.",
+            "2 Hörn.",
+            "2 Pos.",
+            "B. Tuba",
+            "2 Klaviere"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2311,7 +4100,19 @@ songJson = {
         "name": "Musik XXXII",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "2x Viol., 2x Vol., 2x Celli, KB, 2 Trom., 2 Hörn., 2 Pos., B. Tuba, Klavier und Schz.",
+        "instruments_text": "2x Viol., 2x Vol., 2x Celli, KB, 2 Trom., 2 Hörn., 2 Pos., B. Tuba, Klavier und Schz.",
+        "instruments": [
+            "2x Viol.",
+            "2x Vol.",
+            "2x Celli",
+            "KB",
+            "2 Trom.",
+            "2 Hörn.",
+            "2 Pos.",
+            "B. Tuba",
+            "Klavier",
+            "Schz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2319,7 +4120,18 @@ songJson = {
         "name": "Musik XXXIII ",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "2 Tromp., 2 Hörn., 2 Pos. und Bt., Klav., 2x Viol., 2x Violen, 2x Celli, Kb. Und Schlz.",
+        "instruments_text": "2 Tromp., 2 Hörn., 2 Pos. und Bt., Klav., 2x Viol., 2x Violen, 2x Celli, Kb. Und Schlz.",
+        "instruments": [
+            "2 Tromp.",
+            "2 Hörn.",
+            "2 Pos.",
+            "Bt.",
+            "Klav.",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb. Und Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2327,7 +4139,15 @@ songJson = {
         "name": "Musik XXXIV",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "2 Tromp., Klavier, 2x Viol., 2x Violen, 2x Celli, Kb. Und Schlz.",
+        "instruments_text": "2 Tromp., Klavier, 2x Viol., 2x Violen, 2x Celli, Kb. Und Schlz.",
+        "instruments": [
+            "2 Tromp.",
+            "Klavier",
+            "2x Viol.",
+            "2x Violen",
+            "2x Celli",
+            "Kb. Und Schlz."
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2335,7 +4155,10 @@ songJson = {
         "name": "5. Klavierseptett",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "",
+        "instruments_text": "",
+        "instruments": [
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2343,7 +4166,10 @@ songJson = {
         "name": "Für Orgel solo",
         "type": "5 Stücke",
         "date": 2022.0,
-        "instruments": "Orgel solo",
+        "instruments_text": "Orgel solo",
+        "instruments": [
+            "Orgel solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2351,7 +4177,11 @@ songJson = {
         "name": "Lied",
         "type": "1 Lied",
         "date": 2022.0,
-        "instruments": "Gesang + Klavier",
+        "instruments_text": "Gesang + Klavier",
+        "instruments": [
+            "Gesang",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2359,7 +4189,12 @@ songJson = {
         "name": "8. Streichquartett",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "2 Viol., Viola, Cello",
+        "instruments_text": "2 Viol., Viola, Cello",
+        "instruments": [
+            "2 Viol.",
+            "Viola",
+            "Cello"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2367,7 +4202,10 @@ songJson = {
         "name": "7. Klavierquartett",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "",
+        "instruments_text": "",
+        "instruments": [
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2375,7 +4213,10 @@ songJson = {
         "name": "12. Klavierkonzert",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "",
+        "instruments_text": "",
+        "instruments": [
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2383,7 +4224,10 @@ songJson = {
         "name": "Ballettmusik",
         "type": "26 Stücke",
         "date": 2022.0,
-        "instruments": "",
+        "instruments_text": "",
+        "instruments": [
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2391,7 +4235,10 @@ songJson = {
         "name": "Hell/Dunkel",
         "type": "20 Stücke",
         "date": 2022.0,
-        "instruments": "Klavier solo",
+        "instruments_text": "Klavier solo",
+        "instruments": [
+            "Klavier solo"
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2399,7 +4246,10 @@ songJson = {
         "name": "Cembalokonzert",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "",
+        "instruments_text": "",
+        "instruments": [
+            ""
+        ],
         "duration": "",
         "sample": "no"
     },
@@ -2407,7 +4257,11 @@ songJson = {
         "name": "4 Hörner und 1 Klavier",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments": "4 Hörner und Klavier",
+        "instruments_text": "4 Hörner und Klavier",
+        "instruments": [
+            "4 Hörner",
+            "Klavier"
+        ],
         "duration": "",
         "sample": "no"
     }
