@@ -23,7 +23,7 @@ instrument_list = []
 for item in range(sheet.nrows):
     active_row = sheet.row(item)
 
-    if active_row[3].ctype != 0:
+    if active_row[3].ctype != 0 and item != 0:
 
         index += 1
         song_info = {}
@@ -53,8 +53,11 @@ with open('../js/worksJson.js', "w") as outfile:
     json.dump(works_json, outfile,ensure_ascii=False, indent=4 )
 
 #print(formatted_works.decode())
-for i in instrument_set:
+
+instrument_ordered = sorted(instrument_set)
+
+for i in instrument_ordered:
     print(i)
 
-print(len(instrument_set))
+print(len(instrument_ordered))
 print(len(instrument_list))
