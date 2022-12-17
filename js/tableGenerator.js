@@ -8,6 +8,7 @@ function tableGenerator(json){
 
       row.append($("<td>").addClass("workNumber").text(i));
 
+      /* old implementation of music names
       var nameInstruments = $("<td>").addClass("nameInstruments");
       nameInstruments.append($("<p>").addClass("workName").text(json[i]['name']));
 
@@ -16,16 +17,20 @@ function tableGenerator(json){
       nameInstruments.append($("<p>").addClass("workInstruments").text(instrumentsText));
 
       row.append(nameInstruments);
+      */
 
+      row.append($("<td>").addClass("workName").text(json[i]['name']));
+      row.append($("<td>").addClass("workInstruments").text(json[i]['instruments_text']));
       row.append($("<td>").addClass("workDuration").text(json[i]['duration']));
       row.append($("<td>").addClass("workDate").text(json[i]['date']));
 
+      /*
       var sample = $("<td>").addClass("sample")
       if (json[i]['sample'] == 'yes'){
         sample.html('<a href="' + '#' + '"> <img src="./images/play_circle.svg" class="play-button" width="50" height="30" alt=""></a>')
       };
-      console.log(sample)
-      row.append(sample)
+      row.append(sample) sample column to be added later
+      */
 
       var row2 = row.clone();
       $("#worksTableDe").append(row)

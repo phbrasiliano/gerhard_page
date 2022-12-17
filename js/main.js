@@ -91,5 +91,6 @@ $(document).ready(function(){
       };
     });
 */
+    console.log(songJson)
     tableGenerator(songJson);
 });
