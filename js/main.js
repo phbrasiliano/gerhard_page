@@ -4,11 +4,13 @@ function navLangSwitch(lang){
     $("#bioNav").text("About");
     $("#worksNav").text("Works");
     $("#mailNav").text("Contact");
+    $("#lanButton").text("DE");
   } else {
     $("#homeNav").text("Home");
     $("#bioNav").text("Über mich");
     $("#worksNav").text("Arbeiten");
     $("#mailNav").text("Kontakt");
+    $("#lanButton").text("EN");
   }
 }
 
@@ -47,6 +49,25 @@ $(document).ready(function(){
 
     });
 
+    $("#lanButton").click(function(){
+      if(language != "de"){
+        language = "de";
+        $(this).addClass(language)
+        navLangSwitch("de");
+        $(".content").fadeOut().promise().done(function(){
+          $("." + content + "." + language).fadeIn();
+        });
+      }else{
+        language = "en";
+        $(this).addClass(language)
+        navLangSwitch("en");
+        $(".content").fadeOut().promise().done(function(){
+          $("." + content + "." + language).fadeIn();
+        });
+      };
+    });
+
+/* Old button implementation
     $("#deButton").click(function(){
       if(language != "de"){
         language = "de";
@@ -69,6 +90,6 @@ $(document).ready(function(){
         });
       };
     });
-
+*/
     tableGenerator(songJson);
 });
