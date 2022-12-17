@@ -20,17 +20,17 @@ regex_pattern = '|'.join(map(re.escape, delimiters))
 instrument_set = set([])
 instrument_list = []
 
-for item in range(sheet.nrows):
+for item in range(sheet.nrows)[1:]:
     active_row = sheet.row(item)
 
-    if active_row[3].ctype != 0 and item != 0:
+    if active_row[3].ctype != 0:
 
         index += 1
         song_info = {}
-        song_info['name'] = active_row[3].value
-        song_info['type'] = active_row[4].value
-        song_info['date'] = active_row[5].value
-        song_info['instruments_text'] = active_row[6].value
+        song_info['name'] = active_row[2].value
+        song_info['type'] = active_row[3].value
+        song_info['date'] = active_row[4].value
+        song_info['instruments_text'] = active_row[5].value
         song_info['instruments'] = re.split(regex_pattern, active_row[6].value)
         song_info['instruments'] = [i.strip() for i in song_info['instruments']]
         song_info['duration'] = active_row[7].value
@@ -53,11 +53,7 @@ with open('../js/worksJson.js', "w") as outfile:
     json.dump(works_json, outfile,ensure_ascii=False, indent=4 )
 
 #print(formatted_works.decode())
-
-instrument_ordered = sorted(instrument_set)
-
-for i in instrument_ordered:
+for i in instrument_set:
     print(i)
 
-print(len(instrument_ordered))
-print(len(instrument_list))
+print(len(instrument_set))
