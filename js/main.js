@@ -8,7 +8,7 @@ function navLangSwitch(lang){
   } else {
     $("#homeNav").text("Home");
     $("#bioNav").text("Über mich");
-    $("#worksNav").text("Arbeiten");
+    $("#worksNav").text("Werk");
     $("#mailNav").text("Kontakt");
     $("#lanButton").text("EN");
   }
