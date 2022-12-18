@@ -18,7 +18,6 @@ delimiters = "und", "+", ","
 regex_pattern = '|'.join(map(re.escape, delimiters))
 
 instrument_set = set([])
-instrument_list = []
 
 for item in range(sheet.nrows)[1:]:
     active_row = sheet.row(item)
@@ -39,7 +38,6 @@ for item in range(sheet.nrows)[1:]:
 
         for i in song_info['instruments']:
             instrument_set.add(i)
-            instrument_list.append(i)
 
         #print(active_row[3].value)
     else:
@@ -48,12 +46,14 @@ for item in range(sheet.nrows)[1:]:
 
 formatted_works = json.dumps(works_json, ensure_ascii=False, indent=4).encode('utf8')
 
+instrument_list = list(instrument_set)
+print(str(instrument_list))
+
 with open('../js/worksJson.js', "w") as outfile:
     outfile.write("songJson = ")
     json.dump(works_json, outfile,ensure_ascii=False, indent=4 )
+    outfile.write("\ninstrumentList = " + str(instrument_list))
 
 #print(formatted_works.decode())
 for i in instrument_set:
     print(i)
-
-print(len(instrument_set))
