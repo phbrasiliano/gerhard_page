@@ -46,7 +46,7 @@ for item in range(sheet.nrows)[1:]:
 
 formatted_works = json.dumps(works_json, ensure_ascii=False, indent=4).encode('utf8')
 
-instrument_list = list(instrument_set)
+instrument_list = sorted(list(instrument_set))
 print(str(instrument_list))
 
 with open('../js/worksJson.js', "w") as outfile:
