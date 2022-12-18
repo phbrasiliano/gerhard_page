@@ -23,6 +23,7 @@ function tableGenerator(json){
       row.append($("<td>").addClass("workInstruments").text(json[i]['instruments_text']));
       row.append($("<td>").addClass("workDuration").text(json[i]['duration']));
       row.append($("<td>").addClass("workDate").text(json[i]['date']));
+      row.append($("<td>").addClass("instrumentList").text(json[i]['instruments']).css("display", "none"));
 
       /*
       var sample = $("<td>").addClass("sample")

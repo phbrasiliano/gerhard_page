@@ -17,7 +17,10 @@ function navLangSwitch(lang){
 $(document).ready(function(){
     var language = "de";
     var content = "home"
+    var instFilter = false;
 
+    tableGenerator(songJson);
+    filterGenerator(instrumentList);
     navLangSwitch();
 
     $("#homeNav").click(function(){
@@ -67,30 +70,20 @@ $(document).ready(function(){
       };
     });
 
-/* Old button implementation
-    $("#deButton").click(function(){
-      if(language != "de"){
-        language = "de";
-        $(this).addClass(language)
-        navLangSwitch("de");
-        $(".content").fadeOut().promise().done(function(){
-          $("." + content + "." + language).fadeIn();
-        });
-      };
-    });
+    $('.dropdown-item').click(function(){
+      var instrumentSelect = $(this).text();
+      $(".table").fadeOut().promise().done(function(){
+        $("#tbodyDe tr").each(function(){
+          $(this).css("display", "");
 
+          var instrumentList = $(this).find(".instrumentList").text().split(',');
 
-    $("#enButton").click(function(){
-      if(language != "en"){
-        language = "en";
-        $(this).addClass("active")
-        navLangSwitch(language);
-        $(".content").fadeOut().promise().done(function(){
-          $("." + content + "." + language).fadeIn();
+          if( !(instrumentList.includes(instrumentSelect))){
+            console.log(this);
+            $(this).css("display", "none");
+          };
         });
-      };
+        $(this).fadeIn();
+      });
     });
-*/
-    console.log(songJson)
-    tableGenerator(songJson);
 });

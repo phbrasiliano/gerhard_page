@@ -3726,4 +3726,4 @@ songJson = {
         "sample": "no"
     }
 }
-instrumentList = ['Gitarre', 'Chor', 'Flöten', 'Klavier', 'Sopranblockflöte', 'Tenorblockflöte', 'Trompete', 'Altsaxophon', 'Glocken', 'Mandoline', 'Blockflöte', 'Oboe', 'Flöte', 'Kontrabass', 'Orchester', 'Pauken', 'Mandola', 'Posaune', 'Sopransaxophon', 'Xylophon', 'Orgel', 'Violine', 'Basstuba', 'Horn', 'Cello', 'Schlagzeug', 'Fagott', 'Baritonsaxophon', 'Harfe', 'Tuba', 'Gesang', 'Mandole', 'Streicher', 'Tenorsaxophon', 'Klarinette', 'Viola']
+instrumentList = ['Altsaxophon', 'Baritonsaxophon', 'Basstuba', 'Blockflöte', 'Cello', 'Chor', 'Fagott', 'Flöte', 'Flöten', 'Gesang', 'Gitarre', 'Glocken', 'Harfe', 'Horn', 'Klarinette', 'Klavier', 'Kontrabass', 'Mandola', 'Mandole', 'Mandoline', 'Oboe', 'Orchester', 'Orgel', 'Pauken', 'Posaune', 'Schlagzeug', 'Sopranblockflöte', 'Sopransaxophon', 'Streicher', 'Tenorblockflöte', 'Tenorsaxophon', 'Trompete', 'Tuba', 'Viola', 'Violine', 'Xylophon']
