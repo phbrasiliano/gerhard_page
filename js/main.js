@@ -1,12 +1,12 @@
 function navLangSwitch(lang){
   if (lang == "en") {
-    $("#homeNav").text("Home");
+    $("#homeNav").text("Gerhard Stalze");
     $("#bioNav").text("About");
     $("#worksNav").text("Works");
     $("#mailNav").text("Contact");
     $("#lanButton").text("DE");
   } else {
-    $("#homeNav").text("Home");
+    $("#homeNav").text("Gerhard Stalze");
     $("#bioNav").text("Über mich");
     $("#worksNav").text("Werk");
     $("#mailNav").text("Kontakt");
