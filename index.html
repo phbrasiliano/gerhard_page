@@ -4,22 +4,36 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Gerhard Stalze - Piano teacher and Composer</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="./main.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.slim.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <link rel="stylesheet" href="./main.css" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="test cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <div class="test container d-flex w-100 h-100 p-3 mx-auto flex-column">
     <header class="masthead mb-auto">
-      <div class="inner">
-        <nav class="nav nav-masthead justify-content-end">
+      <div class="navbar navbar-expand-md nav-masthead">
+        <nav class="navbar nav">
           <a id="homeNav" class="nav-link active" href="#"></a>
-          <a id="bioNav" class="nav-link" href="#"></a>
+        </nav>
+        <nav class="navbar-nav">
           <a id="worksNav" class="nav-link" href="#"></a>
           <a id="contactNav" class="nav-link" href="#"></a>
+          <a id="bioNav" class="nav-link" href="#"></a>
+          <a id="lanButton" class="nav-link" href="#">
         </nav>
       </div>
     </header>
@@ -56,38 +70,54 @@
       </div>
 
       <div id="works" class="content works en" style="display: none">
-        <h2>Compositions</h2>
+        <div><h2>Compositions</h2></div>
+        <div class="dropdown dropright">
+          <button type="button" id="filterButtonEn" class="btn btn-dark dropdown-toggle" data-toggle="dropdown">
+            Filter by instrument
+          </button>
+          <div id="dropDownEn"  class="dropdown-menu">
+          </div>
+        </div>
+        <div>
         <table class="table table-responsive" id="worksTableEn">
           <thead>
             <tr>
               <th>#</th>
-              <th>Song name and instruments</th>
+              <th>Song name</th>
+              <th>Instruments</th>
               <th>Duration</th>
               <th>Date</th>
-              <th>Sample</th>
             </tr>
           </thead>
-          <tbody>
+          <tbody id="tbodyEn">
 
           </tbody>
         </table>
+      </div>
 
       </div>
 
       <div id="works" class="content works de" style="display: none">
-        <h2>Kompositionen</h2>
+        <div><h2>Kompositionen</h2></div>
+        <div id="dropBoxDe" class="dropdown dropright">
+          <button type="button" id="filterButtonDe" class="btn btn-dark dropdown-toggle" data-toggle="dropdown">
+            Filter by instrument
+          </button>
+          <div id="dropDownDe" class="dropdown-menu">
+          </div>
+        </div>
 
         <table class="table table-responsive" id="worksTableDe">
           <thead>
             <tr>
               <th>#</th>
-              <th>Lied Name und Instrumente</th>
+              <th>Lied Name</th>
+              <th>Instrumente</th>
               <th>Dauer</th>
               <th>Datum</th>
-              <th></th>
             </tr>
           </thead>
-          <tbody>
+          <tbody id="tbodyDe">
 
           </tbody>
         </table>
@@ -104,7 +134,7 @@
       </div>
 
     </div>
-
+ <!-- This old implemetaion of the footer will be here in case we need to revert the button behavior
     <footer class="footer row">
 
       <div class="navbar nav justify-content-center col">
@@ -113,10 +143,12 @@
       </div>
       <div class="col"></div>
     </footer>
+-->
   </div>
 </body>
 <script src="./js/jquery-3.5.1.min.js"></script>
 <script src="./js/main.js"></script>
 <script src="./js/worksJson.js"></script>
 <script src="./js/tableGenerator.js"></script>
+<script src="./js/filterGenerator.js"></script>
 </html>

@@ -39,11 +39,6 @@ h2 {
   padding-bottom: 5em;
 }
 
-.workInstruments {
-  font-size: 0.75em;
-  color: rgba(0, 0, 0, .75);
-}
-
 .footer {
   position: fixed;
   left: 0em;
@@ -137,8 +132,7 @@ body {
   border-bottom: .25rem solid transparent;
 }
 
-.nav-masthead .nav-link:hover,
-.nav-masthead .nav-link:focus {
+.nav-masthead .nav-link:hover{
   border-bottom-color: rgba(0, 0, 0, .25);
 }
 

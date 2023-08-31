@@ -1,21 +1,27 @@
 function navLangSwitch(lang){
   if (lang == "en") {
-    $("#homeNav").text("Home");
+    $("#homeNav").text("Gerhard Stalze");
     $("#bioNav").text("About");
     $("#worksNav").text("Works");
     $("#contactNav").text("Contact");
+    $("#lanButton").text("DE");
   } else {
-    $("#homeNav").text("Home");
+    $("#homeNav").text("Gerhard Stalze");
     $("#bioNav").text("Über mich");
     $("#worksNav").text("Arbeiten");
     $("#contactNav").text("Kontakt");
+    $("#worksNav").text("Werk");
+    $("#lanButton").text("EN");
   }
 }
 
 $(document).ready(function(){
     var language = "de";
     var content = "home"
+    var instFilter = false;
 
+    tableGenerator(songJson);
+    filterGenerator(instrumentList);
     navLangSwitch();
 
     $("#homeNav").click(function(){
@@ -44,7 +50,7 @@ $(document).ready(function(){
       $(".content").fadeOut().promise().done(function(){
         $("." + content + "." + language).fadeIn();
       });
-      
+
     });
       $("#contactNav").click(function(){
         content = "contact";
@@ -56,7 +62,7 @@ $(document).ready(function(){
 
     });
 
-    $("#deButton").click(function(){
+    $("#lanButton").click(function(){
       if(language != "de"){
         language = "de";
         $(this).addClass(language)
@@ -64,20 +70,30 @@ $(document).ready(function(){
         $(".content").fadeOut().promise().done(function(){
           $("." + content + "." + language).fadeIn();
         });
-      };
-    });
-
-
-    $("#enButton").click(function(){
-      if(language != "en"){
+      }else{
         language = "en";
-        $(this).addClass("active")
-        navLangSwitch(language);
+        $(this).addClass(language)
+        navLangSwitch("en");
         $(".content").fadeOut().promise().done(function(){
           $("." + content + "." + language).fadeIn();
         });
       };
     });
 
-    tableGenerator(songJson);
+    $('.dropdown-item').click(function(){
+      var instrumentSelect = $(this).text();
+      $(".table").fadeOut().promise().done(function(){
+        $("#tbodyDe tr").each(function(){
+          $(this).css("display", "");
+
+          var instrumentList = $(this).find(".instrumentList").text().split(',');
+
+          if( !(instrumentList.includes(instrumentSelect))){
+            console.log(this);
+            $(this).css("display", "none");
+          };
+        });
+        $(this).fadeIn();
+      });
+    });
 });
