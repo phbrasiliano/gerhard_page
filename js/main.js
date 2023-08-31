@@ -3,12 +3,12 @@ function navLangSwitch(lang){
     $("#homeNav").text("Home");
     $("#bioNav").text("About");
     $("#worksNav").text("Works");
-    $("#mailNav").text("Contact");
+    $("#contactNav").text("Contact");
   } else {
     $("#homeNav").text("Home");
     $("#bioNav").text("Über mich");
     $("#worksNav").text("Arbeiten");
-    $("#mailNav").text("Kontakt");
+    $("#contactNav").text("Kontakt");
   }
 }
 
@@ -44,6 +44,15 @@ $(document).ready(function(){
       $(".content").fadeOut().promise().done(function(){
         $("." + content + "." + language).fadeIn();
       });
+      
+    });
+      $("#contactNav").click(function(){
+        content = "contact";
+        $(".nav-masthead  a").removeClass("active");
+        $(this).addClass("active")
+        $(".content").fadeOut().promise().done(function(){
+          $("." + content + "." + language).fadeIn();
+        });
 
     });
 
