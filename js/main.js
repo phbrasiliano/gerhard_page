@@ -93,6 +93,16 @@ $(document).ready(function(){
             $(this).css("display", "none");
           };
         });
+        $("#tbodyEn tr").each(function(){
+          $(this).css("display", "");
+
+          var instrumentList = $(this).find(".instrumentList").text().split(',');
+
+          if( !(instrumentList.includes(instrumentSelect))){
+            console.log(this);
+            $(this).css("display", "none");
+          };
+        });
         $(this).fadeIn();
       });
     });
