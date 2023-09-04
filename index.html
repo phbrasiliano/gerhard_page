@@ -23,7 +23,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="test container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <div class="test container d-flex w-100 h-100 p-3 mx-auto flex-column justify-content-center">
     <header class="masthead mb-auto">
       <div class="navbar navbar-expand-md nav-masthead">
         <nav class="navbar nav">
@@ -33,7 +33,7 @@
           <a id="worksNav" class="nav-link" href="#"></a>
           <a id="contactNav" class="nav-link" href="#"></a>
           <a id="bioNav" class="nav-link" href="#"></a>
-          <a id="lanButton" class="nav-link" href="#">
+          <a id="lanButton" class="nav-link" href="#"></a>
         </nav>
       </div>
     </header>
@@ -93,10 +93,10 @@
 
       <div id="works" class="content works en" style="display: none">
         <div><h2>Compositions</h2></div>
-        <div class="dropdown dropright">
-          <button type="button" id="filterButtonEn" class="btn btn-dark dropdown-toggle" data-toggle="dropdown">
+        <div id="dropBoxEn" class="dropdown dropright p-3">
+          <a type="button" id="filterButtonEn" class="dropdown-toggle" data-toggle="dropdown">
             Filter by instrument
-          </button>
+          </a>
           <div id="dropDownEn"  class="dropdown-menu">
           </div>
         </div>
@@ -121,10 +121,10 @@
 
       <div id="works" class="content works de" style="display: none">
         <div><h2>Kompositionen</h2></div>
-        <div id="dropBoxDe" class="dropdown dropright">
-          <button type="button" id="filterButtonDe" class="btn btn-dark dropdown-toggle" data-toggle="dropdown">
-            Filter by instrument
-          </button>
+        <div id="dropBoxDe" class="dropdown dropright p-3">
+          <a type="button" id="filterButtonDe" class="dropdown-toggle" data-toggle="dropdown">
+            Nach Instrument filtern
+          </a>
           <div id="dropDownDe" class="dropdown-menu">
           </div>
         </div>
