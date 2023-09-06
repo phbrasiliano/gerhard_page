@@ -1,6 +1,12 @@
 # gerhard_page
 Small website project for Gerhard Stalze homepage.
 
+As of 06/09/23 there the following changes are still needed:
+- Add the picture to the about me page
+- Improve table functionality.
+
+there are maybe some other needed changes but from it is still not clear what has to be added.
+
 As of 19/03/23 the following changes are planned:
 - Add a Contact page, with proper display of email (research how to make it less detectable by bots)
 - Implement new spreadsheet as soon as we receive it.
