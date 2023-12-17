@@ -81,29 +81,48 @@ $(document).ready(function(){
     });
 
     $('.dropdown-item').click(function(){
-      var instrumentSelect = $(this).text();
-      $(".table").fadeOut().promise().done(function(){
-        $("#tbodyDe tr").each(function(){
-          $(this).css("display", "");
-
-          var instrumentList = $(this).find(".instrumentList").text().split(',');
-
-          if( !(instrumentList.includes(instrumentSelect))){
-            console.log(this);
-            $(this).css("display", "none");
-          };
+      if($(this).hasClass("active")){
+        $(this).removeClass("active");
+        $(".table").fadeOut().promise().done(function(){
+          $("#tbodyDe tr").each(function(){
+            $(this).css("display", "");
+          });
+          $("#tbodyEn tr").each(function(){
+            $(this).css("display", "");
+          });
+          $(this).fadeIn();
         });
-        $("#tbodyEn tr").each(function(){
-          $(this).css("display", "");
-
-          var instrumentList = $(this).find(".instrumentList").text().split(',');
-
-          if( !(instrumentList.includes(instrumentSelect))){
-            console.log(this);
-            $(this).css("display", "none");
-          };
+      }else{
+        $("#dropDownDe a").each(function(){
+          $(this).removeClass("active");
         });
-        $(this).fadeIn();
-      });
+        $("#dropDownEn a").each(function(){
+          $(this).removeClass("active");
+        });
+        $(this).addClass("active");
+        var instrumentSelect = $(this).text();
+        $(".table").fadeOut().promise().done(function(){
+          $("#tbodyDe tr").each(function(){
+            $(this).css("display", "");
+
+            var instrumentList = $(this).find(".instrumentList").text().split(',');
+
+            if( !(instrumentList.includes(instrumentSelect))){
+              $(this).css("display", "none");
+            };
+          });
+          $("#tbodyEn tr").each(function(){
+            $(this).css("display", "");
+
+            var instrumentList = $(this).find(".instrumentList").text().split(',');
+
+            if( !(instrumentList.includes(instrumentSelect))){
+              $(this).css("display", "none");
+            };
+          });
+          $(this).fadeIn();
+
+        }); // end of promise function
+      };
     });
 });
