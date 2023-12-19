@@ -13,6 +13,12 @@ h1, h2 {
   padding-top: 0.5em;
 }
 
+.contact-heading {
+  font-size: 2.5em;
+  padding-top: 3.5em;
+  padding-bottom: 0.5em;
+}
+
 h2 {
   font-size: 2em;
   padding-bottom: 1em;
@@ -35,7 +41,7 @@ h2 {
 
 
 .bio {
-  text-align: justify;
+  text-align: left;
   padding-bottom: 5em;
 }
 
