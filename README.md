@@ -15,3 +15,12 @@ As of 19/03/23 the following changes are planned:
 - Layout?
 - Makes it look better on mobile
 - Fix nav to look good on all screens
+
+11/09/24
+
+- add padding on top of bio page
+- make works top row fixed
+- front page looking "good" (top priority) (center, line to make more interesting, background, top bar white)
+- appear on google
+- add correct list (check if possible with pdf)
+
