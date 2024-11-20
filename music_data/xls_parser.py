@@ -2,7 +2,7 @@ import xlrd
 import json
 import re
 
-sheet = xlrd.open_workbook('werke.xls').sheet_by_index(0)
+sheet = xlrd.open_workbook('Werkliste_2024_edited.xls').sheet_by_index(0)
 works_json = {"0" : {
   "name" : "example songname",
   "type" : "example type",
@@ -26,13 +26,12 @@ for item in range(sheet.nrows)[1:]:
 
         index += 1
         song_info = {}
-        song_info['name'] = active_row[2].value
-        song_info['type'] = active_row[3].value
-        song_info['date'] = active_row[4].value
-        song_info['instruments_text'] = active_row[5].value
-        song_info['instruments'] = re.split(regex_pattern, active_row[6].value)
+        song_info['name'] = active_row[0].value
+        song_info['type'] = active_row[1].value
+        song_info['date'] = active_row[2].value
+        song_info['instruments_text'] = active_row[3].value
+        song_info['instruments'] = re.split(regex_pattern, active_row[4].value)
         song_info['instruments'] = [i.strip() for i in song_info['instruments']]
-        song_info['duration'] = active_row[7].value
         song_info['sample'] = 'no'
         works_json[index] = song_info
 
