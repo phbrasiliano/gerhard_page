@@ -81,9 +81,30 @@ $(document).ready(function(){
     });
 
     $('.dropdown-item').click(function(){
+      if ($(this).hasClass("reset")) {
+        $("#dropDownDe a").each(function () {
+            $(this).removeClass("active");
+        });
+        $("#dropDownEn a").each(function () {
+            $(this).removeClass("active");
+        });
+        $(this).addClass("active");
+        $(".table").fadeOut().promise().done(function () {
+            $("#tbodyDe tr").each(function () {
+                $(this).css("display", "");
+            });
+            $("#tbodyEn tr").each(function () {
+                $(this).css("display", "");
+            });
+            $(this).fadeIn();
+        });
+
+        return; // Exit the function early since this is a reset action
+    }
       if($(this).hasClass("active")){
         $(this).removeClass("active");
         $(".table").fadeOut().promise().done(function(){
+          $(".dropdown-item.reset").addClass("active");
           $("#tbodyDe tr").each(function(){
             $(this).css("display", "");
           });
