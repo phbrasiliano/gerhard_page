@@ -81,7 +81,7 @@ songJson = {
             "Trompete",
             "Horn",
             "Posaune",
-            "Tuba"
+            "Basstuba"
         ],
         "sample": "no"
     },
@@ -1258,7 +1258,7 @@ songJson = {
         "instruments_text": "Fl., Ob., Klar., Fag., 2 Hrn., 2x Vl., Vla., Vc., Kb., Klav., Pauk.",
         "instruments": [
             "Streicher",
-            "Flöten",
+            "Flöte",
             "Oboe",
             "Klarinette",
             "Fagott",
@@ -3454,7 +3454,13 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Ob., Klar., Fag., Vl., Vla., Vc., Klav.",
         "instruments": [
-            ""
+            "Oboe",
+            "Klarinette",
+            "Fagott",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3464,7 +3470,7 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Org.",
         "instruments": [
-            ""
+            "Orgel"
         ],
         "sample": "no"
     },
@@ -3474,7 +3480,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Ges. Klav.",
         "instruments": [
-            ""
+            "Gesang",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3484,7 +3491,9 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "2 Vl., Vla., Vc.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello"
         ],
         "sample": "no"
     },
@@ -3494,7 +3503,10 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Vl. Vc., Hrn., Klav.",
         "instruments": [
-            ""
+            "Violine",
+            "Cello",
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3504,7 +3516,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Klavier solo, 2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3514,7 +3527,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Picc., 2 Fl., 2 Ob., 2 Klar., Bklar., 2 Fag., Kfag. 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Xyl., Gl., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3524,7 +3538,7 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Klav.",
         "instruments": [
-            ""
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3534,7 +3548,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Cembalo solo, 2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Hrn., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk.",
         "instruments": [
-            ""
+            "Cembalo",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3544,7 +3559,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "4 Hrn., Klav.",
         "instruments": [
-            ""
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3554,7 +3570,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Vc., Klav.",
         "instruments": [
-            ""
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3564,7 +3581,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Trp., 2 Hrn., Pos., Bt., 2x Vl., 2x Vla., 2x Vc., 2x Kb. Klav., Gl., Pauk., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3572,9 +3590,18 @@ songJson = {
         "name": "3+3+2+1",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments_text": "Trp., Hrn., Pos., Vl., Vla, Vc., Klav. Gl., Pauk., Schz.",
+        "instruments_text": "Trp., Hrn., Pos., Vl., Vla, Vc., Klav., Gl., Pauk., Schz.",
         "instruments": [
-            ""
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Viola",
+            "Violine",
+            "Cello",
+            "Klavier",
+            "Pauken",
+            "Schlagzeug",
+            "Glocken"
         ],
         "sample": "no"
     },
@@ -3584,7 +3611,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Hrn., Klav.",
         "instruments": [
-            ""
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3594,7 +3622,9 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Violine solo, 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
         "instruments": [
-            ""
+            "Violone",
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3604,7 +3634,7 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Klav.",
         "instruments": [
-            ""
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3614,7 +3644,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Klar., Klav.",
         "instruments": [
-            ""
+            "Klarinette",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3624,7 +3655,11 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "2 Vl., 2 Vla., Vc., Kb., Klav.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3634,7 +3669,9 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Fl., Hrn., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3644,7 +3681,9 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Ob., Fag., Klav.",
         "instruments": [
-            ""
+            "Oboe",
+            "Fagott",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3654,7 +3693,9 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "2 Vl, 2 Vla., Vc.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello"
         ],
         "sample": "no"
     },
@@ -3664,7 +3705,8 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "Trp., Org.",
         "instruments": [
-            ""
+            "Trompete",
+            "Orgel"
         ],
         "sample": "no"
     },
@@ -3674,7 +3716,13 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "4 Hörner solo., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk. ",
         "instruments": [
-            ""
+            "Horn",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier",
+            "Pauken"
         ],
         "sample": "no"
     },
@@ -3684,7 +3732,9 @@ songJson = {
         "date": 2022.0,
         "instruments_text": "2 Vl., Vla., Vc.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello"
         ],
         "sample": "no"
     },
@@ -3694,7 +3744,11 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Klavier solo, 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba"
         ],
         "sample": "no"
     },
@@ -3704,7 +3758,7 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Klav.",
         "instruments": [
-            ""
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3714,7 +3768,10 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Vl., Vla., Vc., Klav.",
         "instruments": [
-            ""
+            "Viola",
+            "Violine",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3724,7 +3781,9 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Trp., Pos., Org.",
         "instruments": [
-            ""
+            "Trompete",
+            "Posaune",
+            "Orgel"
         ],
         "sample": "no"
     },
@@ -3734,7 +3793,7 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Klav.",
         "instruments": [
-            ""
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3744,7 +3803,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Fl., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3754,7 +3814,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Ob., Klav.",
         "instruments": [
-            ""
+            "Oboe",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3764,7 +3825,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Klar., Klav.",
         "instruments": [
-            ""
+            "Klarinette",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3774,7 +3836,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Pos., Org.",
         "instruments": [
-            ""
+            "Posaune",
+            "Orgel"
         ],
         "sample": "no"
     },
@@ -3784,7 +3847,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Vla., Klav.",
         "instruments": [
-            ""
+            "Viola",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3794,7 +3858,18 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Trp., 2 Hrn. 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Xyl., Pauk.",
         "instruments": [
-            ""
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier",
+            "Xylophon",
+            "Pauken",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3804,7 +3879,9 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Vl., Vc., Klav.",
         "instruments": [
-            ""
+            "Viola",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3814,7 +3891,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "4 Vci., Klav.",
         "instruments": [
-            ""
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3824,7 +3902,12 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Fl., Ob. Klar., Hrn., Fag., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Horn",
+            "Fagott",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3834,7 +3917,10 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Vio., Vla., 2 Vc., Klav. ",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3844,7 +3930,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Orgel solo, 2 Trp., 2 Hrn. 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk.",
         "instruments": [
-            ""
+            "Orgel",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3854,7 +3941,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Klavier solo, 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk., ",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3864,7 +3952,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Violine solo, 2 Fl., 2 Ob., 2 Klar., 2 Fag., Kfag., Vl., Vla., Vc., Kb., Klav., Xyl., Pauk.",
         "instruments": [
-            ""
+            "Violine",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3874,7 +3963,9 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Ges. Hrn., Klav.",
         "instruments": [
-            ""
+            "Gesang",
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3884,7 +3975,9 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Ob., 2 Hrn. Klav.",
         "instruments": [
-            ""
+            "Oboe",
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3894,7 +3987,9 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Fl., Hrn., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3904,7 +3999,10 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Vl., Vla., Vc., Klav.",
         "instruments": [
-            ""
+            "Violone",
+            "Viola",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3914,7 +4012,9 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Vl., Vc., Klav.",
         "instruments": [
-            ""
+            "Violine",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3924,7 +4024,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Trp., 2 Hrn. 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., 2 Klav., Pauk., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3934,7 +4035,12 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Fl., Klar., Fag., Vl., Vc., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Klarinette",
+            "Fagott",
+            "Violine",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3944,7 +4050,7 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Klav.",
         "instruments": [
-            ""
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3954,7 +4060,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Klavier solo, 2 Fl,. 2 Ob., 2 Klar., 2 Fag., 2 Trp., 2 Hrn. 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -3964,7 +4071,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Org., Schz. (3 Spieler)",
         "instruments": [
-            ""
+            "Orgel",
+            "Schlagzeug"
         ],
         "sample": "no"
     },
@@ -3974,7 +4082,7 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Klav.",
         "instruments": [
-            ""
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3984,7 +4092,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Asax., Klav.",
         "instruments": [
-            ""
+            "Altsaxophon",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -3994,7 +4103,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -4004,7 +4114,11 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Vl, Vla., Vc., Hrn., Klav.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello",
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4014,7 +4128,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Klar., Klav.",
         "instruments": [
-            ""
+            "Klarinette",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4024,7 +4139,15 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Trom., 3x Vl., 3x Via., 3x Vc., 2x Kb., Klav., Xyl., Pauk., Schz.",
         "instruments": [
-            ""
+            "Trompete",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier",
+            "Xylophon",
+            "Pauken",
+            "Schlagzeug"
         ],
         "sample": "no"
     },
@@ -4034,7 +4157,7 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Klav.",
         "instruments": [
-            ""
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4044,7 +4167,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -4054,7 +4178,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Klavier solo, 2 Fl,. 2 Ob., 2 Klar., 2 Fag., 2 Trp., 2 Hrn. 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -4064,7 +4189,11 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Vl, Vla., Vc., Hrn., Klav.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello",
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4074,7 +4203,9 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Tromp., Pos., Klav.",
         "instruments": [
-            ""
+            "Trompete",
+            "Posaune",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4084,7 +4215,8 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "Bt., Klav.",
         "instruments": [
-            ""
+            "Basstuba",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4094,7 +4226,9 @@ songJson = {
         "date": 2023.0,
         "instruments_text": "2 Vl, Vla., Vc.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello"
         ],
         "sample": "no"
     },
@@ -4104,7 +4238,7 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Klav.",
         "instruments": [
-            ""
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4114,7 +4248,9 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Fl., Ob., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Oboe",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4124,7 +4260,12 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "2 Trp., 2 Hrn. 2 Pos., Bt., Org., Schz.",
         "instruments": [
-            ""
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Orgel",
+            "Schlagzeug"
         ],
         "sample": "no"
     },
@@ -4134,7 +4275,8 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "2 Vc., Klav.",
         "instruments": [
-            ""
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4144,7 +4286,16 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Orgel solo, 2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Schz.",
         "instruments": [
-            ""
+            "Orgel",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Schlagzeug"
         ],
         "sample": "no"
     },
@@ -4154,7 +4305,17 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
         "instruments": [
-            ""
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Schlagzeug",
+            "Klavier",
+            "Pauken"
         ],
         "sample": "no"
     },
@@ -4164,7 +4325,8 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Xyl., Klav.",
         "instruments": [
-            ""
+            "Xylophon",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4174,7 +4336,13 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Ob., Hrn., Fag., Vl., Vla., Vc., Klav.",
         "instruments": [
-            ""
+            "Oboe",
+            "Horn",
+            "Fagott",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4184,7 +4352,16 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Trompete solo. Horn in F solo, Posaune solo, 2x Vl., 2x Vla., 2x Vc., 2 Kb. Klav., Pauk., Schz.",
         "instruments": [
-            ""
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Viola",
+            "Violine",
+            "Cello",
+            "Kontrabass",
+            "Klavier",
+            "Schlagzeug",
+            "Pauken"
         ],
         "sample": "no"
     },
@@ -4194,7 +4371,10 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "2 Vl., Vla., Vc., Klav.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4204,7 +4384,15 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Fl., Ob., Kla., Hrn., Fag., 2x Vl., Vla., Vc., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Oboe",
+            "Klavier",
+            "Horn",
+            "Fagott",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4214,7 +4402,9 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Fl., Hrn., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Horn",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4224,7 +4414,11 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "3x Vl., 3x Vla., 3x Vc., Klav., Schz.",
         "instruments": [
-            ""
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier",
+            "Schlagzeug"
         ],
         "sample": "no"
     },
@@ -4234,7 +4428,9 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Fl., Bt., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Basstuba",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4244,7 +4440,12 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Fl. Ob., B-Kla., Hrn., Fg., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Horn",
+            "Fagott",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4254,7 +4455,7 @@ songJson = {
         "date": 2024.0,
         "instruments_text": " 2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Trp., 2 Hrn., 2 Pos., 2x Vl., Vla., Vc.,Kb., Pauk., Schz.",
         "instruments": [
-            ""
+            "Orchester"
         ],
         "sample": "no"
     },
@@ -4264,7 +4465,9 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Fl., Klar., Klav.",
         "instruments": [
-            ""
+            "Flöte",
+            "Klarinette",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4274,7 +4477,9 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Alt-Sax., Kb., Klav.",
         "instruments": [
-            ""
+            "Altsaxophon",
+            "Kontrabass",
+            "Klavier"
         ],
         "sample": "no"
     },
@@ -4284,9 +4489,89 @@ songJson = {
         "date": 2024.0,
         "instruments_text": "Klavier solo 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk., Schz.",
         "instruments": [
-            ""
+            "Klavier",
+            "Orchester"
+        ],
+        "sample": "no"
+    },
+    "375": {
+        "name": "17. Klavierquintett",
+        "type": "4 Sätze",
+        "date": 2024.0,
+        "instruments_text": "4 Vc., Klav.",
+        "instruments": [
+            "Klavier",
+            "Cello"
+        ],
+        "sample": "no"
+    },
+    "376": {
+        "name": "3 Orgelstücke",
+        "type": "3 Stücke",
+        "date": 2024.0,
+        "instruments_text": "Org.",
+        "instruments": [
+            "Orgel"
+        ],
+        "sample": "no"
+    },
+    "377": {
+        "name": "2. Flötenkonzert",
+        "type": "4 Sätze",
+        "date": 2024.0,
+        "instruments_text": "Flöte solo, 2x Vl., 2x Vla., 2x Vc., Kb., Klav. Schz.",
+        "instruments": [
+            "Flöte",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "378": {
+        "name": "7 Duos",
+        "type": "7 Stücke",
+        "date": 2024.0,
+        "instruments_text": "Alt Sax., Klav.",
+        "instruments": [
+            "Altsaxophon",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "379": {
+        "name": "9 Kleine Häppchen",
+        "type": "9 Stücke",
+        "date": 2024.0,
+        "instruments_text": "Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "380": {
+        "name": "Doppelkonzert",
+        "type": "4 Sätze",
+        "date": 2024.0,
+        "instruments_text": "Violine solo, Violoncello solo, 2 Fl., 2 Ob., 2 Klar., 2 Fag., K. Fag., 2 Trp., 2 Hrn., 2 Pos., Bt., Klav., Schz.",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Fagott",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Klavier",
+            "Schlagzeug"
         ],
         "sample": "no"
     }
 }
-instrumentList = ['', 'Altsaxophon', 'Baritonsaxophon', 'Basstuba', 'Blockflöte', 'Cello', 'Chor', 'Fagott', 'Flöte', 'Flöten', 'Gesang', 'Gitarre', 'Glocken', 'Harfe', 'Horn', 'Klarinette', 'Klavier', 'Kontrabass', 'Mandola', 'Mandole', 'Mandoline', 'Oboe', 'Orchester', 'Orgel', 'Pauken', 'Posaune', 'Schlagzeug', 'Sopranblockflöte', 'Sopransaxophon', 'Streicher', 'Tenorblockflöte', 'Tenorsaxophon', 'Trompete', 'Tuba', 'Viola', 'Violine', 'Xylophon']
+instrumentList = ['Altsaxophon', 'Baritonsaxophon', 'Basstuba', 'Blockflöte', 'Cello', 'Cembalo', 'Chor', 'Fagott', 'Flöte', 'Gesang', 'Gitarre', 'Glocken', 'Harfe', 'Horn', 'Klarinette', 'Klavier', 'Kontrabass', 'Mandola', 'Mandole', 'Mandoline', 'Oboe', 'Orchester', 'Orgel', 'Pauken', 'Posaune', 'Schlagzeug', 'Sopranblockflöte', 'Sopransaxophon', 'Streicher', 'Tenorblockflöte', 'Tenorsaxophon', 'Trompete', 'Tuba', 'Viola', 'Violine', 'Violone', 'Xylophon']
