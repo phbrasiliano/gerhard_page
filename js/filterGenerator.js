@@ -5,7 +5,7 @@
 
 function filterGenerator(list){
   len = Object.keys(list).length;
-  for (var i=1; i < len; i++){
+  for (var i=0; i < len; i++){
     var item = $("<a>").addClass("dropdown-item").text(list[i]).attr("href", "#");
 
     var item2 = item.clone();
