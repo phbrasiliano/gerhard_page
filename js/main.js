@@ -8,9 +8,8 @@ function navLangSwitch(lang){
   } else {
     $("#homeNav").text("Gerhard Stalze");
     $("#bioNav").text("Über mich");
-    $("#worksNav").text("Arbeiten");
-    $("#contactNav").text("Kontakt");
     $("#worksNav").text("Werk");
+    $("#contactNav").text("Kontakt");
     $("#lanButton").text("EN");
   }
 }
