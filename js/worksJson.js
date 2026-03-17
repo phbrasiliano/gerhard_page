@@ -1168,7 +1168,7 @@ songJson = {
         "sample": "no"
     },
     "105": {
-        "name": "Doppelkonzert",
+        "name": "1. Doppelkonzert",
         "type": "4 Sätze",
         "date": 2013.0,
         "instruments_text": "Violine solo, Klavier solo, 2 Hrn., 2x Vl., Vla., Vc., Kb., Pauk., Schz.",
@@ -2025,7 +2025,7 @@ songJson = {
         "sample": "no"
     },
     "174": {
-        "name": "Doppelkonzert 2018",
+        "name": "2. Doppelkonzert",
         "type": "4 Sätze",
         "date": 2018.0,
         "instruments_text": "Violine solo, Viola solo, 2x Vl., Vloa., Vc., Kb., Klav., Glsp., Xyl., Vib., Schz.",
@@ -2596,7 +2596,7 @@ songJson = {
         "sample": "no"
     },
     "221": {
-        "name": "Cellokonzert",
+        "name": "1. Cellokonzert",
         "type": "4 Sätze",
         "date": 2020.0,
         "instruments_text": "Violoncello solo, Trp., 2 Hrn., Pos., 2x Vl., Vla., Vc., Kb., Klav., Xyl., Pauk., Schz.",
@@ -2622,7 +2622,7 @@ songJson = {
         "sample": "no"
     },
     "223": {
-        "name": "Doppelkonzert",
+        "name": "3. Doppelkonzert",
         "type": "4 Sätze",
         "date": 2020.0,
         "instruments_text": "2 Violoncelli solo, 2 Hrn., 2x Viol., Vla., Vc., Kb., Klav., Xyl., Pauk., Schz.",
@@ -3590,7 +3590,7 @@ songJson = {
         "name": "3+3+2+1",
         "type": "4 Sätze",
         "date": 2022.0,
-        "instruments_text": "Trp., Hrn., Pos., Vl., Vla, Vc., Klav., Gl., Pauk., Schz.",
+        "instruments_text": "Trp., Hrn., Pos., Vl., Vla, Vc., Klav. Gl., Pauk., Schz.",
         "instruments": [
             "Trompete",
             "Horn",
@@ -3711,7 +3711,7 @@ songJson = {
         "sample": "no"
     },
     "313": {
-        "name": "Konzert für 4 Hörner und Orchester * + Stp.",
+        "name": "Konzert für 4 Hörner und Orchester * + Stp.*",
         "type": "4 Sätze",
         "date": 2022.0,
         "instruments_text": "4 Hörner solo., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk. ",
@@ -3842,7 +3842,7 @@ songJson = {
         "sample": "no"
     },
     "324": {
-        "name": "Sonate ",
+        "name": "1. Sonate für Viola und Klavier",
         "type": "4 Sätze",
         "date": 2023.0,
         "instruments_text": "Vla., Klav.",
@@ -4101,7 +4101,7 @@ songJson = {
         "name": "Musik XXXVIII",
         "type": "4 Sätze",
         "date": 2023.0,
-        "instruments_text": "2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
+        "instruments_text": "2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
         "instruments": [
             "Klavier",
             "Orchester"
@@ -4165,7 +4165,7 @@ songJson = {
         "name": "Musik XL",
         "type": "4 Sätze",
         "date": 2023.0,
-        "instruments_text": "2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
+        "instruments_text": "2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
         "instruments": [
             "Klavier",
             "Orchester"
@@ -4303,7 +4303,7 @@ songJson = {
         "name": "Musik XLI",
         "type": "4 Sätze",
         "date": 2024.0,
-        "instruments_text": "2 Tromp., 2 Hörn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
+        "instruments_text": "2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
         "instruments": [
             "Trompete",
             "Horn",
@@ -4453,7 +4453,7 @@ songJson = {
         "name": "Orchestersuite aus der Kinderoper  „Die Schlüsselblume“",
         "type": "9 Stücke",
         "date": 2024.0,
-        "instruments_text": " 2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Trp., 2 Hrn., 2 Pos., 2x Vl., Vla., Vc.,Kb., Pauk., Schz.",
+        "instruments_text": "2 Fl., 2 Ob., 2 Klar., 2 Fag., 2 Trp., 2 Hrn., 2 Pos., 2x Vl., Vla., Vc.,Kb., Pauk., Schz.",
         "instruments": [
             "Orchester"
         ],
@@ -4553,7 +4553,7 @@ songJson = {
         "sample": "no"
     },
     "380": {
-        "name": "Doppelkonzert",
+        "name": "4. Doppelkonzert",
         "type": "4 Sätze",
         "date": 2024.0,
         "instruments_text": "Violine solo, Violoncello solo, 2 Fl., 2 Ob., 2 Klar., 2 Fag., K. Fag., 2 Trp., 2 Hrn., 2 Pos., Bt., Klav., Schz.",
@@ -4572,6 +4572,589 @@ songJson = {
             "Schlagzeug"
         ],
         "sample": "no"
+    },
+    "381": {
+        "name": "Für 2 Klaviere VII",
+        "type": "5 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "382": {
+        "name": "12. Streichquartett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Vl., Vla., Vc.",
+        "instruments": [
+            "Violine",
+            "Viola",
+            "Cello"
+        ],
+        "sample": "no"
+    },
+    "383": {
+        "name": "16. Klaviervariationen für Ursula",
+        "type": "16 Variationen",
+        "date": 2025.0,
+        "instruments_text": "Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "384": {
+        "name": "39. Klaviertrio",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vi., Vc., Klav.",
+        "instruments": [
+            "Violine",
+            "Viola",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "385": {
+        "name": "2. Cellokonzert",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Cello solo, 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Schz.",
+        "instruments": [
+            "Cello",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Violine",
+            "Basstuba",
+            "Viola",
+            "Kontrabass",
+            "Klavier",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "386": {
+        "name": "11. Klaviersextett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Ob., Fag., Hrn., Vl. Vc. Klav.",
+        "instruments": [
+            "Oboe",
+            "Fagott",
+            "Horn",
+            "Vioine",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "387": {
+        "name": "Klaviervariationen nach dem 11. Klaviersextett 3. Satz",
+        "type": "7 Variationen",
+        "date": 2025.0,
+        "instruments_text": "Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "388": {
+        "name": "6. Orgelkonzert",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Orgel solo, 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Schz.",
+        "instruments": [
+            "Orgel",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "389": {
+        "name": "8. Klavierquartett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Hrn., Vl., Vc., Klav.",
+        "instruments": [
+            "Horn",
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "390": {
+        "name": "Musik XLIII",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Fl., 2 Ob., 2 Klar., B. Klar., 2 Fag., 2 Trp., 2 Hrn., 2 Pos., Bt., Klav., Schz.",
+        "instruments": [
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Fagott",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Klavier",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "391": {
+        "name": "40. Klaviertrio",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vl., Vc., Klav.",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "392": {
+        "name": "6. Violoncellosonate",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vc., Klav.",
+        "instruments": [
+            "Cello",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "393": {
+        "name": "5+1",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Trp., 2x Hör., Pos., Bt., Org.",
+        "instruments": [
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Orgel"
+        ],
+        "sample": "no"
+    },
+    "394": {
+        "name": "7. Klavierseptett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "A Klar., Fag., Trom., Pos., Vl., Kb., Klav.",
+        "instruments": [
+            "Klarinette",
+            "Fagott",
+            "Trompete",
+            "Posaune",
+            "Violine",
+            "Bontrabass",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "395": {
+        "name": "6. Violinsonate",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vl., Klav.",
+        "instruments": [
+            "Violine",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "396": {
+        "name": "18. Klavierquintett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Trp., 2x Hrn., Pos., Klav.,",
+        "instruments": [
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "397": {
+        "name": "1. Trompetensonate",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Trp., Klav., ",
+        "instruments": [
+            "Trompete",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "398": {
+        "name": "Musik XLIV",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Trp., 2x Vl., 2x Vla., 2x Vc., Kb., Klav.",
+        "instruments": [
+            "Trompete",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "399": {
+        "name": "41. Klaviertrio ",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Klar., Klav.",
+        "instruments": [
+            "Klatinette",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "400": {
+        "name": "5. Doppelkonzert",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Klaviere solo, 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk., Schz.",
+        "instruments": [
+            "Klavier",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Viloine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Pauke",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "401": {
+        "name": "Sonate für Altblockflöte und Klavier",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Alt Bfl., Klav.",
+        "instruments": [
+            "Altblockflöte",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "402": {
+        "name": "Geburtstagsständchen für Herbert",
+        "type": "1 Satz",
+        "date": 2025.0,
+        "instruments_text": "Trp., Hrn., Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb. Klav., Pauk., Schz.",
+        "instruments": [
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier",
+            "Pauke",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "403": {
+        "name": "42. Klaviertrio",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Vl., Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "404": {
+        "name": "9 Klangbilder I",
+        "type": "9 Stücke",
+        "date": 2025.0,
+        "instruments_text": "2 Vl., Vla., Vc., Klav.",
+        "instruments": [
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "405": {
+        "name": "Für Klavier 4-händig",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "406": {
+        "name": "Für 2 Klaviere VIII",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "407": {
+        "name": "13. Streichquartett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "2 Vi., Vla., Vc.",
+        "instruments": [
+            "Violine",
+            "Viola",
+            "Cello"
+        ],
+        "sample": "no"
+    },
+    "408": {
+        "name": "7 Fantasiestücke",
+        "type": "7 Stücke",
+        "date": 2025.0,
+        "instruments_text": "Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "409": {
+        "name": "9. Klavierquartett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vl., Vla., Vc., Klav.",
+        "instruments": [
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "410": {
+        "name": "Was er ist ",
+        "type": "1 Lied",
+        "date": 2025.0,
+        "instruments_text": "Ges., Klav.",
+        "instruments": [
+            "Gesang",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "411": {
+        "name": "Musik XLV",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Trp., Hrn., Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Pauk., Schz.",
+        "instruments": [
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier",
+            "Pauke",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "412": {
+        "name": "2. Sonate für Viola und Klavier",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vla., Klav.",
+        "instruments": [
+            "Viola",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "413": {
+        "name": "Klaviertrio+Streichorchester",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vl., Vc., Klav. 2X Vl., 2x Vla., 2x Vc., Kb.",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier",
+            "Viola",
+            "Kontrabass"
+        ],
+        "sample": "no"
+    },
+    "414": {
+        "name": "10. Klavierquartett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vl., Vla., Vc., Klav.",
+        "instruments": [
+            "Violine",
+            "Viola",
+            "Cello",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "415": {
+        "name": "Klangbilder II",
+        "type": "9 Stücke",
+        "date": 2025.0,
+        "instruments_text": "Fl., Ob., Klar., Fag. Klav.",
+        "instruments": [
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Fagott",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "416": {
+        "name": "5 Kleine Stücke",
+        "type": "5 Stücke",
+        "date": 2025.0,
+        "instruments_text": "Git.",
+        "instruments": [
+            "Gitarre"
+        ],
+        "sample": "no"
+    },
+    "417": {
+        "name": "Klangbilder III",
+        "type": "9 Stücke",
+        "date": 2025.0,
+        "instruments_text": "Trom., Hrn., Pos., Bt., Klav.",
+        "instruments": [
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "418": {
+        "name": "4 Vierstimmige Kanons",
+        "type": "4 Stücke",
+        "date": 2025.0,
+        "instruments_text": "Fl. Ob., Kla., Fg., ",
+        "instruments": [
+            "Flöte",
+            "Oboe",
+            "Klarinette",
+            "Fagott"
+        ],
+        "sample": "no"
+    },
+    "419": {
+        "name": "18. Klavierkonzert",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Klav. Solo, 2 Trp., 2 Hrn., 2 Pos., Bt., 2x Vl., 2x Vla., 2x Vc., Kb., Pauk., Schz.",
+        "instruments": [
+            "Klavier",
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Viloine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Pauke",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "420": {
+        "name": "43. Klaviertrio",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Vi., Vc., Klav.",
+        "instruments": [
+            "Violine",
+            "Cello",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "421": {
+        "name": "17 Klaviervariationen ",
+        "type": "17 Variationen",
+        "date": 2025.0,
+        "instruments_text": "Klav.",
+        "instruments": [
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "422": {
+        "name": "3. Hornsonate",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Hrn., Klav.",
+        "instruments": [
+            "Horn",
+            "Klavier"
+        ],
+        "sample": "no"
+    },
+    "423": {
+        "name": "Musik XLVI",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "4 Trp., Vl. Solo, 2x Vl., 2x Vla., 2x Vc., Kb., Klav., Schz.",
+        "instruments": [
+            "Trompete",
+            "Violine",
+            "Viola",
+            "Cello",
+            "Kontrabass",
+            "Klavier",
+            "Schlagzeug"
+        ],
+        "sample": "no"
+    },
+    "424": {
+        "name": "Klavierquintett",
+        "type": "4 Sätze",
+        "date": 2025.0,
+        "instruments_text": "Trp., 2 Hrn., 2 Pos., Bt., Klav.",
+        "instruments": [
+            "Trompete",
+            "Horn",
+            "Posaune",
+            "Basstuba",
+            "Klavier"
+        ],
+        "sample": "no"
     }
 }
-instrumentList = ['Altsaxophon', 'Baritonsaxophon', 'Basstuba', 'Blockflöte', 'Cello', 'Cembalo', 'Chor', 'Fagott', 'Flöte', 'Gesang', 'Gitarre', 'Glocken', 'Harfe', 'Horn', 'Klarinette', 'Klavier', 'Kontrabass', 'Mandola', 'Mandole', 'Mandoline', 'Oboe', 'Orchester', 'Orgel', 'Pauken', 'Posaune', 'Schlagzeug', 'Sopranblockflöte', 'Sopransaxophon', 'Streicher', 'Tenorblockflöte', 'Tenorsaxophon', 'Trompete', 'Tuba', 'Viola', 'Violine', 'Violone', 'Xylophon']
+instrumentList = ['Altblockflöte', 'Altsaxophon', 'Baritonsaxophon', 'Basstuba', 'Blockflöte', 'Bontrabass', 'Cello', 'Cembalo', 'Chor', 'Fagott', 'Flöte', 'Gesang', 'Gitarre', 'Glocken', 'Harfe', 'Horn', 'Klarinette', 'Klatinette', 'Klavier', 'Kontrabass', 'Mandola', 'Mandole', 'Mandoline', 'Oboe', 'Orchester', 'Orgel', 'Pauke', 'Pauken', 'Posaune', 'Schlagzeug', 'Sopranblockflöte', 'Sopransaxophon', 'Streicher', 'Tenorblockflöte', 'Tenorsaxophon', 'Trompete', 'Tuba', 'Viloine', 'Vioine', 'Viola', 'Violine', 'Violone', 'Xylophon']

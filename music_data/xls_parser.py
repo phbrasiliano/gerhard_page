@@ -2,7 +2,7 @@ import xlrd
 import json
 import re
 
-sheet = xlrd.open_workbook('Werkliste_2024_edited.xls').sheet_by_index(0)
+sheet = xlrd.open_workbook('Werkliste_2025_edited.xls').sheet_by_index(0)
 works_json = {"0" : {
   "name" : "example songname",
   "type" : "example type",
